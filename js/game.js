@@ -201,7 +201,7 @@ function compareField(col, guess, target) {
       const close = col.key === "taille" ? Math.abs(g - t) <= 15
                   : col.key === "prime"  ? (Math.max(g, t) > 0 && Math.abs(g - t) / Math.max(g, t) <= 0.2)
                   : Math.abs(g - t) === 1;
-      return { state: close ? "mid" : "no", text, arrow: g < t ? "⬆" : "⬇" };
+      return { state: close ? "mid" : "no", text, arrow: g < t ? "up" : "down" };
     }
   }
   return { state: "no", text: String(gv) };
@@ -307,6 +307,12 @@ const MARKS = {
 };
 const MARK_LABEL = { ok: "exact", mid: "partiel", no: "faux" };
 
+/* Flèches d'encadrement, dessinées dans le coin haut droit de la case */
+const ARROWS = {
+  up:   '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V6M6 12l6-6 6 6"/></svg>',
+  down: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 5v13M6 12l6 6 6-6"/></svg>'
+};
+
 function renderHead() {
   el.boardHead.innerHTML = COLUMNS.map(c => `<div>${c.label}</div>`).join("");
 }
@@ -336,10 +342,10 @@ function renderGuess(guess, instant) {
       cell.setAttribute("role", "img");
       cell.setAttribute("aria-label",
         `${col.label} : ${r.aria || r.text}, ${MARK_LABEL[r.state]}` +
-        (r.arrow === "⬆" ? ", plus grand" : r.arrow === "⬇" ? ", plus petit" : ""));
+        (r.arrow === "up" ? ", plus grand" : r.arrow === "down" ? ", plus petit" : ""));
     }
     cell.innerHTML = (col.type !== "name" ? `<span class="mark">${MARKS[r.state]}</span>` : "")
-      + (r.arrow ? `<span class="arrow">${r.arrow}</span>` : "")
+      + (r.arrow ? `<span class="arrow">${ARROWS[r.arrow]}</span>` : "")
       + (col.type === "name" ? avatarHTML(guess, "cell-av") : "")
       + `<span>${r.text}</span>`;
     row.appendChild(cell);
@@ -569,7 +575,9 @@ const HELP_HTML = `
   <p><span class="hk-arm">💪</span> Armement · 👁️ Observation · 👑 Rois · — aucun Haki connu.
      Vert si les types correspondent exactement, jaune s'il y en a au moins un en commun.</p>
   <h3>Les flèches</h3>
-  <p><strong>⬆</strong> la valeur recherchée est plus grande que ta proposition, <strong>⬇</strong> elle est plus petite. Valable pour la prime, la taille et la saga de première apparition.</p>
+  <p>Une flèche en haut à droite de la case indique le sens : vers le haut, la valeur
+     recherchée est <strong>plus grande</strong> que ta proposition ; vers le bas, elle est
+     <strong>plus petite</strong>. Valable pour la prime, la taille et l'arc de première apparition.</p>
   <h3>Les modes</h3>
   <ul>
     <li><strong>Classique</strong> — tout le roster, uniquement le tableau d'indices.</li>

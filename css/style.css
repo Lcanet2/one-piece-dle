@@ -200,9 +200,13 @@ body{
 .cell.no{background:linear-gradient(180deg,#c0392f,var(--no))}
 .cell.name{background:linear-gradient(180deg,var(--panel2),var(--panel));font-size:13px;font-weight:900}
 .cell .arrow{
-  position:absolute;inset:0;display:grid;place-items:center;
-  font-size:40px;opacity:.28;pointer-events:none
+  position:absolute;top:5px;right:5px;
+  width:22px;height:22px;border-radius:50%;
+  display:grid;place-items:center;pointer-events:none;
+  background:rgba(0,0,0,.3)
 }
+.cell .arrow svg{width:14px;height:14px;display:block}
+.cell.mid .arrow{background:rgba(255,255,255,.4)}   /* case jaune : texte sombre */
 @keyframes flip{
   0%{transform:rotateX(-90deg) scale(.9);opacity:0}
   60%{transform:rotateX(12deg) scale(1)}
@@ -214,7 +218,12 @@ body{
 }
 .lg{width:14px;height:14px;border-radius:4px;display:inline-block;vertical-align:-2px;margin-right:5px}
 .lg-ok{background:var(--ok2)}.lg-mid{background:var(--mid)}.lg-no{background:#c0392f}
-.lg-arrow{opacity:.8}
+.lg-arrow{display:inline-flex;align-items:center;gap:3px;vertical-align:-4px}
+.lg-arrow span{
+  width:19px;height:19px;border-radius:50%;background:var(--panel2);
+  border:1px solid var(--line);display:grid;place-items:center;color:var(--txt)
+}
+.lg-arrow svg{width:12px;height:12px;display:block}
 
 /* ---- résultat ---- */
 .result{
