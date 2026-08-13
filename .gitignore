@@ -1,0 +1,7 @@
+# Dossiers sources des portraits : doublons de img/, importés via tools/import-images.py
+Images One Piece/
+Images_One_Piece/
+
+# Divers
+.DS_Store
+*.swp

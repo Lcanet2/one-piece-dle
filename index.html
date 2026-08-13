@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OnePieceDle — Devine le personnage de One Piece</title>
+<meta name="description" content="Devine le personnage de One Piece du jour. Un nouveau personnage chaque jour, 238 personnages, modes Classique, Emoji et Prime.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;700;800&display=swap">
+<link rel="stylesheet" href="css/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏴‍☠️</text></svg>">
+</head>
+<body>
+<a class="skip-link" href="#main">Aller au jeu</a>
+
+<header class="topbar">
+  <div class="wrap topbar-in">
+    <a class="logo" href="./">
+      <span class="logo-mark"><svg class="ico ico-lg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 21V4"/><path d="M4 5h11l-2 3 2 3H4"/><circle cx="17" cy="17" r="4"/><path d="M15.5 15.5l3 3M18.5 15.5l-3 3"/></svg></span>
+      <span class="logo-txt">ONE&nbsp;PIECE<b>DLE</b></span>
+    </a>
+    <nav class="modes" id="modes">
+      <button class="mode-btn is-active" data-mode="classique"><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/></svg><span>Classique</span></button>
+      <button class="mode-btn" data-mode="emoji"><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M8.5 14.5a4.5 4.5 0 0 0 7 0"/><path d="M9 9.5h.01M15 9.5h.01"/></svg><span>Emoji</span></button>
+      <button class="mode-btn" data-mode="prime"><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v10M9.5 9.5h4a1.8 1.8 0 0 1 0 3.6h-3a1.8 1.8 0 0 0 0 3.6h4"/></svg><span>Prime</span></button>
+    </nav>
+    <div class="topbar-actions">
+      <button class="icon-btn" id="btn-stats" title="Statistiques" aria-label="Statistiques"><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M5 20V11M12 20V5M19 20v-6"/></svg></button>
+      <button class="icon-btn" id="btn-help" title="Comment jouer" aria-label="Comment jouer"><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M9.5 9.2a2.6 2.6 0 0 1 5 .9c0 1.7-2.5 2.1-2.5 3.9"/><path d="M12 17.2h.01"/></svg></button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap main" id="main">
+
+  <section class="hero">
+    <h1 id="hero-title">Devine le personnage de One Piece du jour</h1>
+    <p class="hero-sub" id="hero-sub">Un nouveau mystère chaque jour. Tape le nom d'un personnage : les couleurs t'indiquent ce qui correspond.</p>
+    <div class="daily-badge"><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="16" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg><span>Défi du jour</span></div>
+  </section>
+
+  <!-- indice spécifique au mode -->
+  <section class="clue" id="clue" hidden></section>
+
+  <section class="guessbox">
+    <div class="input-shell">
+      <span class="input-ico"><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4 4"/></svg></span>
+      <input id="guess-input" type="text" autocomplete="off" spellcheck="false"
+             placeholder="Nom du personnage…" aria-label="Nom du personnage">
+      <button id="guess-btn" class="go-btn">Deviner</button>
+      <ul id="suggestions" class="suggestions" hidden></ul>
+    </div>
+    <div class="counter"><span id="try-count">0</span> essai(s) · <span id="pool-count">0</span> personnages</div>
+  </section>
+
+  <section class="result" id="result" role="status" aria-live="polite" hidden></section>
+
+  <section class="board-zone">
+    <div class="board-scroll">
+      <div class="board-head" id="board-head"></div>
+      <div class="board" id="board" role="list" aria-label="Essais"></div>
+    </div>
+    <p class="legend">
+      <span class="lg lg-ok"></span> exact
+      <span class="lg lg-mid"></span> partiel
+      <span class="lg lg-no"></span> faux
+      <span class="lg-arrow">⬆ / ⬇</span> la valeur cherchée est plus grande / plus petite
+    </p>
+  </section>
+
+  <section class="hints" id="hints" hidden>
+    <h3>Indices débloqués</h3>
+    <div class="hint-grid" id="hint-grid"></div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <p>Jeu de fan non officiel. One Piece est une œuvre d'Eiichiro Oda / Shueisha — aucun lien avec les ayants droit.</p>
+    <p class="foot-mini">Primes, tailles, fruits et origines vérifiés sur
+      <a href="https://onepiece.fandom.com/fr/wiki/One_Piece_Encyclop%C3%A9die" target="_blank" rel="noopener">One Piece Encyclopédie</a>
+      (texte sous licence CC&nbsp;BY-SA). Données éditables dans <code>js/characters.js</code>.</p>
+  </div>
+</footer>
+
+<!-- Modales -->
+<div class="modal" id="modal" hidden>
+  <div class="modal-card">
+    <button class="modal-x" id="modal-x" aria-label="Fermer"><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<script src="js/characters.js"></script>
+<script src="js/emoji.js"></script>
+<script src="js/wikilinks.js"></script>
+<script src="js/game.js"></script>
+</body>
+</html>
