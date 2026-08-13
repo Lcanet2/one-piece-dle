@@ -62,27 +62,34 @@ def strip_wiki(s):
     s = re.sub(r"'''?", '', s)
     return s
 
+def _montants(txt):
+    """Montants en berries trouvés dans un fragment d'infobox."""
+    def _n(t):
+        v = re.sub(r'[.,\s ]', '', t)
+        return int(v) if v.isdigit() else None
+    nums = [n for n in (_n(m) for m in re.findall(r'\{\{B[^}]*\}\}\s*([\d.,\s ]+)', txt)) if n]
+    if not nums:
+        nums = [n for n in (_n(m) for m in re.findall(r'\d[\d.,\s ]{5,}', txt)) if n]
+    return [n for n in nums if 1 <= n <= 10**13]
+
 def get_bounty(fields):
     raw = fields.get("prime", "")
     # notation "étoiles/couronnes" des Marines : traitée ailleurs
     if "★" in raw or "{{C|" in raw or "{{c|" in raw:
         return None
     raw = strip_wiki(raw)
-    # primes révoquées / anciennes : barrées ou marquées "anciennement"
-    raw = re.sub(r'<s>.*?</s>', ' ', raw, flags=re.S|re.I)
-    raw = re.sub(r'<strike>.*?</strike>', ' ', raw, flags=re.S|re.I)
-    raw = re.sub(r'[^\n]*\(?anciennement\)?[^\n]*', ' ', raw, flags=re.I)
     if not raw.strip(): return None
 
-    def _n(txt):
-        v = re.sub(r'[.,\s ]', '', txt)
-        return int(v) if v.isdigit() else None
+    # Les primes barrées sont celles qui ne sont plus actives : mort, capture,
+    # grâce, ou simple révision à la hausse. On les écarte tant qu'il reste une
+    # prime active ; sinon on garde la dernière connue — sans quoi Arlong,
+    # Doflamingo ou Roger apparaîtraient sans prime du tout.
+    barrees = re.findall(r'<s>(.*?)</s>|<strike>(.*?)</strike>', raw, flags=re.S|re.I)
+    barrees = " ".join(a or b for a, b in barrees)
+    actif = re.sub(r'<s>.*?</s>|<strike>.*?</strike>', ' ', raw, flags=re.S|re.I)
+    actif = re.sub(r'[^\n]*\(?anciennement\)?[^\n]*', ' ', actif, flags=re.I)
 
-    # le montant suit le marqueur berry {{B}} / {{B|S}} : fiable même pour 1.000
-    nums = [n for n in (_n(m) for m in re.findall(r'\{\{B[^}]*\}\}\s*([\d.,\s ]+)', raw)) if n]
-    if not nums:   # repli : un nombre long isolé
-        nums = [n for n in (_n(m) for m in re.findall(r'\d[\d.,\s ]{5,}', raw)) if n]
-    nums = [n for n in nums if 1 <= n <= 10**13]
+    nums = _montants(actif) or _montants(barrees) or _montants(raw)
     return max(nums) if nums else None
 
 def get_height(fields):

@@ -37,7 +37,18 @@
   <section class="hero">
     <h1 id="hero-title">Devine le personnage de One Piece du jour</h1>
     <p class="hero-sub" id="hero-sub">Un nouveau mystère chaque jour. Tape le nom d'un personnage : les couleurs t'indiquent ce qui correspond.</p>
-    <div class="daily-badge"><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="16" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg><span>Défi du jour</span></div>
+    <div class="day-nav">
+      <button class="day-btn" id="day-prev" aria-label="Jour précédent">
+        <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>
+      </button>
+      <div class="day-label">
+        <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="16" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>
+        <span id="day-text">Défi du jour</span>
+      </div>
+      <button class="day-btn" id="day-next" aria-label="Jour suivant">
+        <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg>
+      </button>
+    </div>
   </section>
 
   <!-- indice spécifique au mode -->

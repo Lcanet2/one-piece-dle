@@ -101,11 +101,21 @@ body{
   background:linear-gradient(90deg,var(--red),var(--gold))
 }
 .hero-sub{color:var(--muted);margin:10px auto 16px;max-width:640px;font-size:15px;line-height:1.5}
-.daily-badge{
-  display:inline-block;padding:8px 20px;border-radius:999px;
-  background:var(--panel);border:1px solid var(--line);
-  color:var(--gold);font-weight:800;font-size:14px;letter-spacing:.5px
+.day-nav{
+  display:inline-flex;align-items:center;gap:4px;padding:4px;
+  background:var(--panel);border:1px solid var(--line);border-radius:999px
 }
+.day-label{
+  display:inline-flex;align-items:center;gap:8px;padding:6px 14px;
+  color:var(--gold);font-weight:800;font-size:14px;letter-spacing:.4px;min-width:190px;justify-content:center
+}
+.day-btn{
+  width:36px;height:36px;border-radius:50%;cursor:pointer;display:grid;place-items:center;
+  background:transparent;border:0;color:var(--muted);transition:.15s
+}
+.day-btn:hover:not(:disabled){background:var(--panel2);color:var(--txt)}
+.day-btn:disabled{opacity:.25;cursor:not-allowed}
+.day-nav.passe .day-label{color:var(--sea-txt)}
 
 /* ---- clue (emoji / prime) ---- */
 .clue{

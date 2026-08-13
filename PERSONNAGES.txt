@@ -80,7 +80,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : 100 000 000 B      Taille : 4,49 m     Origine : Grand Line                 1re app. : Guerre au Sommet
   Ginney                           
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,74 m     Origine : Inconnue                   1re app. : Egghead
+     Prime : 190 000 000 B      Taille : 1,74 m     Origine : Inconnue                   1re app. : Egghead
   Hack                             🐟🥋
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 2,80 m     Origine : Ile des Hommes-Poissons    1re app. : Dressrosa
@@ -135,7 +135,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── CÉSAR CLOWN  (4) ────────────────────────────────────────────────────────────────────────────────
   Barbe Brune                      
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 6,91 m     Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : 80 060 000 B       Taille : 6,91 m     Origine : Grand Line                 1re app. : Guerre au Sommet
   Monet                            ❄️🦅
      Femme    · Logia           · Haki : —
      Prime : ?                  Taille : 2,27 m     Origine : North Blue                 1re app. : Dressrosa
@@ -247,7 +247,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Homme    · Aucun           · Haki : Armement + Observation
      Prime : ?                  Taille : 3,18 m     Origine : South Blue                 1re app. : Water 7
   Rob Lucci                        🐆🕊️🎩
-     Homme    · Zoan            · Haki : Observation
+     Homme    · Zoan            · Haki : Armement + Observation
      Prime : ?                  Taille : 2,12 m     Origine : Grand Line                 1re app. : Water 7
   Spandam                          🐘😤
      Homme    · Aucun           · Haki : —
@@ -274,7 +274,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Homme    · Paramecia       · Haki : —
      Prime : 3 189 000 000 B    Taille : 1,92 m     Origine : Grand Line                 1re app. : East Blue
   Crocodile                        🐊🪝🚬
-     Homme    · Logia           · Haki : —
+     Homme    · Logia           · Haki : Armement + Observation
      Prime : 1 965 000 000 B    Taille : 2,53 m     Origine : Grand Line                 1re app. : Alabasta
   Dracule Mihawk                   🦅⚔️🍷
      Homme    · Aucun           · Haki : Armement + Observation
@@ -312,7 +312,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── ÉQUIPAGE D'ARLONG  (3) ──────────────────────────────────────────────────────────────────────────
   Arlong                           🦈👃
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,63 m     Origine : Ile des Hommes-Poissons    1re app. : East Blue
+     Prime : 20 000 000 B       Taille : 2,63 m     Origine : Ile des Hommes-Poissons    1re app. : East Blue
   Chew                             🐡💦
      Homme    · Aucun           · Haki : —
      Prime : 5 500 000 B        Taille : 2,57 m     Origine : Ile des Hommes-Poissons    1re app. : East Blue
@@ -340,7 +340,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : 1 374 000 000 B    Taille : 2,03 m     Origine : Grand Line                 1re app. : Skypiea
   Portgas D. Ace                   🔥🎩🃏
      Homme    · Logia           · Haki : Armement + Observation + Rois
-     Prime : ?                  Taille : 1,85 m     Origine : South Blue                 1re app. : Alabasta
+     Prime : 550 000 000 B      Taille : 1,85 m     Origine : South Blue                 1re app. : Alabasta
   Vista                            🌹⚔️
      Homme    · Aucun           · Haki : Armement + Observation
      Prime : ?                  Taille : 3,28 m     Origine : North Blue                 1re app. : Guerre au Sommet
@@ -361,7 +361,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Femme    · Zoan Mythique   · Haki : —
      Prime : 100 000 000 B      Taille : 3,61 m     Origine : South Blue                 1re app. : Guerre au Sommet
   Jesus Burgess                    🤼💪
-     Homme    · Paramecia       · Haki : —
+     Homme    · Paramecia       · Haki : Armement
      Prime : 20 000 000 B       Taille : 3,55 m     Origine : Grand Line                 1re app. : Skypiea
   Sanjuan Wolf                     🚢🧌
      Homme    · Paramecia       · Haki : —
@@ -401,7 +401,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Whole Cake Island
   Charlotte Snack                  
-     Homme    · Aucun           · Haki : —
+     Homme    · Aucun           · Haki : Armement
      Prime : 600 000 000 B      Taille : ?          Origine : Inconnue                   1re app. : Whole Cake Island
   Charlotte Tablette               
      Homme    · Aucun           · Haki : —
@@ -436,37 +436,37 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 6,96 m     Origine : North Blue                 1re app. : Dressrosa
   Dellinger                        🦈👠
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : North Blue                 1re app. : Dressrosa
+     Prime : 15 000 000 B       Taille : ?          Origine : North Blue                 1re app. : Dressrosa
   Diamante                         💠🚩
      Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : ?                  Taille : 5,25 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : 99 000 000 B       Taille : 5,25 m     Origine : North Blue                 1re app. : Dressrosa
   Don Quichotte Rossinante         
      Homme    · Paramecia       · Haki : —
      Prime : ?                  Taille : 2,93 m     Origine : Inconnue                   1re app. : Dressrosa
   Donquixote Doflamingo            🧵🕶️🦩
-     Homme    · Paramecia       · Haki : Armement + Rois
-     Prime : ?                  Taille : 3,05 m     Origine : Inconnue                   1re app. : Skypiea
+     Homme    · Paramecia       · Haki : Armement + Observation + Rois
+     Prime : 340 000 000 B      Taille : 3,05 m     Origine : Inconnue                   1re app. : Skypiea
   Gladius                          💥🎈
      Homme    · Paramecia       · Haki : —
-     Prime : ?                  Taille : 2,60 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : 31 000 000 B       Taille : 2,60 m     Origine : North Blue                 1re app. : Dressrosa
   Jora                             🎨👵
      Femme    · Paramecia       · Haki : —
      Prime : ?                  Taille : 2,21 m     Origine : North Blue                 1re app. : Dressrosa
   Lao G                            
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,57 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : 61 000 000 B       Taille : 1,57 m     Origine : North Blue                 1re app. : Dressrosa
   Machvise                         
      Homme    · Paramecia       · Haki : —
-     Prime : ?                  Taille : 4,40 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : 11 000 000 B       Taille : 4,40 m     Origine : North Blue                 1re app. : Dressrosa
   Pica                             🗿🎤
      Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : ?                  Taille : 4,70 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : 99 000 000 B       Taille : 4,70 m     Origine : North Blue                 1re app. : Dressrosa
   Sugar                            🧸🍇
      Femme    · Paramecia       · Haki : —
      Prime : ?                  Taille : 1,10 m     Origine : North Blue                 1re app. : Dressrosa
   Trebol                           🤧🟢
      Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : ?                  Taille : 3,49 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : 99 000 000 B       Taille : 3,49 m     Origine : North Blue                 1re app. : Dressrosa
   Vergo                            🎋🕶️
      Homme    · Aucun           · Haki : Armement
      Prime : ?                  Taille : 2,47 m     Origine : North Blue                 1re app. : Dressrosa
@@ -484,7 +484,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : ?          Origine : South Blue                 1re app. : Guerre au Sommet
   Killer                           🔪🎭
-     Homme    · Aucun           · Haki : —
+     Homme    · Aucun           · Haki : Armement
      Prime : 200 000 000 B      Taille : 1,95 m     Origine : South Blue                 1re app. : Guerre au Sommet
 
 ── ÉQUIPAGE DE PANDAMAN; PANDA FAMILY  (1) ─────────────────────────────────────────────────────────
@@ -514,7 +514,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Homme    · Zoan Ancestral  · Haki : Armement + Observation
      Prime : 1 000 000 000 B    Taille : 8,30 m     Origine : Grand Line                 1re app. : Dressrosa
   King                             🦖🔥🖤
-     Homme    · Zoan Ancestral  · Haki : —
+     Homme    · Zoan Ancestral  · Haki : Armement + Observation
      Prime : 1 390 000 000 B    Taille : 6,13 m     Origine : Grand Line                 1re app. : Wano
   Kurozumi Orochi                  🐍🍶👑
      Homme    · Zoan Mythique   · Haki : —
@@ -529,10 +529,10 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Homme    · Zoan Ancestral  · Haki : Armement + Observation
      Prime : 472 000 000 B      Taille : 3,18 m     Origine : Grand Line                 1re app. : Wano
   Ulti                             🦖👊
-     Femme    · Zoan Ancestral  · Haki : —
+     Femme    · Zoan Ancestral  · Haki : Armement
      Prime : 400 000 000 B      Taille : 1,73 m     Origine : Grand Line                 1re app. : Wano
   Who's-Who                        🐆🗡️
-     Homme    · Zoan Ancestral  · Haki : —
+     Homme    · Zoan Ancestral  · Haki : Armement + Observation
      Prime : 546 000 000 B      Taille : 3,36 m     Origine : North Blue                 1re app. : Wano
 
 ── ÉQUIPAGE DES GÉANTS  (1) ────────────────────────────────────────────────────────────────────────
@@ -556,7 +556,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── ÉQUIPAGE DES PIRATES DE ROGER  (2) ──────────────────────────────────────────────────────────────
   Gol D. Roger                     👑🏴‍☠️💎
      Homme    · Aucun           · Haki : Armement + Observation + Rois
-     Prime : ?                  Taille : 2,74 m     Origine : East Blue                  1re app. : East Blue
+     Prime : 5 564 800 000 B    Taille : 2,74 m     Origine : East Blue                  1re app. : East Blue
   Silvers Rayleigh                 🕶️🍺⚔️
      Homme    · Aucun           · Haki : Armement + Observation + Rois
      Prime : ?                  Taille : 1,88 m     Origine : Inconnue                   1re app. : East Blue
@@ -629,7 +629,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Homme    · Logia           · Haki : —
      Prime : 300 000 000 B      Taille : 3,09 m     Origine : Grand Line                 1re app. : Dressrosa
   Capone Bege                      🏰🔫🎩
-     Homme    · Paramecia       · Haki : —
+     Homme    · Paramecia       · Haki : Armement
      Prime : 350 000 000 B      Taille : 1,66 m     Origine : West Blue                  1re app. : Guerre au Sommet
   Vito                             
      Homme    · Aucun           · Haki : —
@@ -649,7 +649,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── ÉQUIPAGE DU ON-AIR  (1) ─────────────────────────────────────────────────────────────────────────
   Scratchmen Apoo                  🎵🥁
      Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : ?                  Taille : 2,56 m     Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : 198 000 000 B      Taille : 2,56 m     Origine : Grand Line                 1re app. : Guerre au Sommet
 
 ── ÉQUIPAGE DU ROUX  (2) ───────────────────────────────────────────────────────────────────────────
   Rockstar                         🎸🏴‍☠️
@@ -705,7 +705,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Homme    · Aucun           · Haki : Armement
      Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Whole Cake Island
   Charlotte Cracker                🍪🗡️
-     Homme    · Paramecia       · Haki : —
+     Homme    · Paramecia       · Haki : Armement + Observation
      Prime : 860 000 000 B      Taille : 3,07 m     Origine : Grand Line                 1re app. : Whole Cake Island
   Charlotte Dacquoise              
      Homme    · Aucun           · Haki : —
@@ -808,7 +808,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Homme    · Zoan Mythique   · Haki : —
      Prime : ?                  Taille : 3,22 m     Origine : Grand Line                 1re app. : Dressrosa
   Kozuki Oden                      🍢⚔️👘
-     Homme    · Aucun           · Haki : Armement + Rois
+     Homme    · Aucun           · Haki : Armement + Observation + Rois
      Prime : ?                  Taille : 3,82 m     Origine : Wano                       1re app. : Wano
   Kozuki Sukiyaki                  
      Homme    · Aucun           · Haki : —
@@ -980,7 +980,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 2,20 m     Origine : Inconnue                   1re app. : Egghead
   Shiryu                           🌫️⚔️
-     Homme    · Paramecia       · Haki : —
+     Homme    · Paramecia       · Haki : Armement + Observation
      Prime : ?                  Taille : 3,40 m     Origine : Grand Line                 1re app. : Guerre au Sommet
 
 ── GRAN TESORO  (1) ────────────────────────────────────────────────────────────────────────────────
@@ -1028,7 +1028,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Guerre au Sommet
   Mr. 2 Bon Clay                   🦢🩰2️⃣
      Inconnu  · Paramecia       · Haki : —
-     Prime : ?                  Taille : 2,38 m     Origine : East Blue                  1re app. : Alabasta
+     Prime : 32 000 000 B       Taille : 2,38 m     Origine : East Blue                  1re app. : Alabasta
   Sadi                             🔥👠
      Femme    · Aucun           · Haki : —
      Prime : ?                  Taille : 1,83 m     Origine : Grand Line                 1re app. : Guerre au Sommet
@@ -1037,7 +1037,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 2,18 m     Origine : Grand Line                 1re app. : Guerre au Sommet
   Senor Pink                       👶🏊
      Homme    · Paramecia       · Haki : —
-     Prime : ?                  Taille : 2,44 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : 58 000 000 B       Taille : 2,44 m     Origine : North Blue                 1re app. : Dressrosa
 
 ── JOHNNY  (1) ─────────────────────────────────────────────────────────────────────────────────────
   Yosaku                           
@@ -1121,7 +1121,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── L'ÉQUIPAGE DE BARTOLOMEO  (1) ───────────────────────────────────────────────────────────────────
   Bartolomeo                       🛡️👹🤩
      Homme    · Paramecia       · Haki : —
-     Prime : ?                  Taille : 2,20 m     Origine : East Blue                  1re app. : Dressrosa
+     Prime : 150 000 000 B      Taille : 2,20 m     Origine : East Blue                  1re app. : Dressrosa
 
 ── L'ÉQUIPAGE DE BIG MOM  (4) ──────────────────────────────────────────────────────────────────────
   Charlotte Brownie                
@@ -1140,7 +1140,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── L'ÉQUIPAGE DE BLUEJAM  (2) ──────────────────────────────────────────────────────────────────────
   Bluejam                          
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,61 m     Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : 14 300 000 B       Taille : 2,61 m     Origine : Inconnue                   1re app. : Guerre au Sommet
   Porchemy                         
      Homme    · Aucun           · Haki : —
      Prime : 3 400 000 B        Taille : 3,20 m     Origine : East Blue                  1re app. : Guerre au Sommet
@@ -1171,7 +1171,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 
 ── L'ÉQUIPAGE DE KID  (1) ──────────────────────────────────────────────────────────────────────────
   Eustass Kid                      🧲🔩🔥
-     Homme    · Paramecia       · Haki : —
+     Homme    · Paramecia       · Haki : Armement + Observation + Rois
      Prime : 3 000 000 000 B    Taille : 2,05 m     Origine : South Blue                 1re app. : Guerre au Sommet
 
 ── L'ÉQUIPAGE DE ROCKS  (2) ────────────────────────────────────────────────────────────────────────
@@ -1206,7 +1206,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── L'ÉQUIPAGE DES PIRATES DU SOLEIL  (2) ───────────────────────────────────────────────────────────
   Fisher Tiger                     
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 5,20 m     Origine : Ile des Hommes-Poissons    1re app. : Guerre au Sommet
+     Prime : 230 000 000 B      Taille : 5,20 m     Origine : Ile des Hommes-Poissons    1re app. : Guerre au Sommet
   Wadatsumi                        
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 80,00 m    Origine : Ile des Hommes-Poissons    1re app. : Ile des Hommes-Poissons
@@ -1309,7 +1309,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 1,81 m     Origine : West Blue                  1re app. : Alabasta
   Jango                            
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,07 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : 9 000 000 B        Taille : 2,07 m     Origine : Inconnue                   1re app. : East Blue
   John Giant                       
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : East Blue
@@ -1423,7 +1423,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── OHARA  (1) ──────────────────────────────────────────────────────────────────────────────────────
   Nico Olvia                       
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,86 m     Origine : West Blue                  1re app. : Water 7
+     Prime : 79 000 000 B       Taille : 1,86 m     Origine : West Blue                  1re app. : Water 7
 
 ── ORANGE TOWN  (1) ────────────────────────────────────────────────────────────────────────────────
   Buddle                           
@@ -1463,17 +1463,17 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── PIRATES/QUATRE EMPEREURS  (1) ───────────────────────────────────────────────────────────────────
   Barbe Blanche                    🌊🔱👨‍👦
      Homme    · Paramecia       · Haki : Armement + Observation + Rois
-     Prime : ?                  Taille : 6,66 m     Origine : Inconnue                   1re app. : Skypiea
+     Prime : 5 046 000 000 B    Taille : 6,66 m     Origine : Inconnue                   1re app. : Skypiea
 
 ── PIRATES/SEPT GRANDS CORSAIRES  (1) ──────────────────────────────────────────────────────────────
   Bartholomew Kuma                 🐻📖🍑
      Homme    · Paramecia       · Haki : Observation
-     Prime : ?                  Taille : 6,89 m     Origine : South Blue                 1re app. : Skypiea
+     Prime : 296 000 000 B      Taille : 6,89 m     Origine : South Blue                 1re app. : Skypiea
 
 ── PIRATES/SEPT GRANDS CORSAIRES  (1) ──────────────────────────────────────────────────────────────
   Edward Weevil                    🌙👶
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 6,80 m     Origine : Grand Line                 1re app. : Whole Cake Island
+     Prime : 480 000 000 B      Taille : 6,80 m     Origine : Grand Line                 1re app. : Whole Cake Island
 
 ── PRINCIPAUTÉ DE MOKOMO  (4) ──────────────────────────────────────────────────────────────────────
   Inuarashi                        🐶🌞
@@ -1759,7 +1759,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Alvida                             Alliance Baggy et Alvida                      5 000 000 B
   Aokiji                             Équipage de Barbe Noire                                 ?
   Aphelandra                         Kujas                                                   ?
-  Arlong                             Équipage d'Arlong                                       ?
+  Arlong                             Équipage d'Arlong                            20 000 000 B
   Ashura Doji                        Voleurs d'Atamayama                                     ?
   Atlas                              Gouvernement Mondial                                    ?
   Atmos                              Équipage de Barbe Blanche                               ?
@@ -1767,11 +1767,11 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Babanuki                           Équipage des cent bêtes                                 ?
   Baby 5                             Équipage de Don Quijote                                 ?
   Bao Huang                          Équipage des cent bêtes                                 ?
-  Barbe Blanche                      Pirates/Quatre Empereurs                                ?
-  Barbe Brune                        César Clown                                             ?
+  Barbe Blanche                      Pirates/Quatre Empereurs                  5 046 000 000 B
+  Barbe Brune                        César Clown                                  80 060 000 B
   Barbe Noire                        L'Équipage de Barbe Noire                 3 996 000 000 B
-  Bartholomew Kuma                   Pirates/Sept Grands Corsaires                           ?
-  Bartolomeo                         L'Équipage de Bartolomeo                                ?
+  Bartholomew Kuma                   Pirates/Sept Grands Corsaires               296 000 000 B
+  Bartolomeo                         L'Équipage de Bartolomeo                    150 000 000 B
   Basil Hawkins                      Équipage de Hawkins                         320 000 000 B
   Bastille                           Marines                                                 ?
   Bellamy                            Équipage de Bellamy                         195 000 000 B
@@ -1783,7 +1783,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Big Pan                            L'Équipage de Foxy                                      ?
   Black Maria                        Équipage des cent bêtes                     480 000 000 B
   Blue Gilly                         Équipage d'Ideo                                         ?
-  Bluejam                            L'Équipage de Bluejam                                   ?
+  Bluejam                            L'Équipage de Bluejam                        14 300 000 B
   Blueno                             CP-AIGIS0                                               ?
   Boa Hancock                        Kujas                                     1 659 000 000 B
   Boa Marigold                       Kujas                                        40 000 000 B
@@ -1875,11 +1875,11 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Daruma                             Nouvel équipage des hommes-poissons                     ?
   Davy D. Jones                      Famille Davy                                            ?
   Daz Bones                          Baroque Works                                75 000 000 B
-  Dellinger                          Équipage de Don Quijote                                 ?
+  Dellinger                          Équipage de Don Quijote                      15 000 000 B
   Demalo Black                       Faux Équipage du Chapeau de Paille           26 000 000 B
   Den                                Civil                                                   ?
   Denjiro                            Pays de Wa                                              ?
-  Diamante                           Équipage de Don Quijote                                 ?
+  Diamante                           Équipage de Don Quijote                      99 000 000 B
   Diesel                             Équipage de Big Mom                                     ?
   Doberman                           Marines                                                 ?
   Doc Q                              L'Équipage de Barbe Noire                    72 000 000 B
@@ -1888,7 +1888,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Domino                             Impel Down                                              ?
   Don Krieg                          Armada de Don Krieg                          17 000 000 B
   Don Quichotte Rossinante           Équipage de Don Quijote                                 ?
-  Donquixote Doflamingo              Équipage de Don Quijote                                 ?
+  Donquixote Doflamingo              Équipage de Don Quijote                     340 000 000 B
   Dorry                              L'Équipage des Géants                     1 800 000 000 B
   Dosun                              Nouvel équipage des hommes-poissons                     ?
   Dr. Hiluluk                        Royaume des Cerisiers                                   ?
@@ -1896,13 +1896,13 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Dracule Mihawk                     Cross Guild                               3 590 000 000 B
   Duval                              Rosy Life Riders                                        ?
   Edison                             Gouvernement Mondial                                    ?
-  Edward Weevil                      Pirates/Sept grands corsaires                           ?
+  Edward Weevil                      Pirates/Sept grands corsaires               480 000 000 B
   Elizabello II                      Sans affiliation                                        ?
   Emporio Ivankov                    Armée Révolutionnaire                       100 000 000 B
   Enel                               Clan d'Ener                                             ?
   Eris                               Famille Davy                                            ?
   Eustass Kid                        L'Équipage de Kid                         3 000 000 000 B
-  Fisher Tiger                       L'Équipage des Pirates du Soleil                        ?
+  Fisher Tiger                       L'Équipage des Pirates du Soleil            230 000 000 B
   Fossa                              L'Équipage de Barbe Blanche                             ?
   Foxy                               L'Équipage de Foxy                           24 000 000 B
   Franky                             Équipage du Chapeau de Paille               394 000 000 B
@@ -1921,10 +1921,10 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Genzo                              Kokoyashi                                               ?
   Gerd                               Erbaf                                                   ?
   Gin                                Armada de Don Krieg                          12 000 000 B
-  Ginney                             Armée Révolutionnaire                                   ?
-  Gladius                            Équipage de Don Quijote                                 ?
+  Ginney                             Armée Révolutionnaire                       190 000 000 B
+  Gladius                            Équipage de Don Quijote                      31 000 000 B
   Gloriosa                           Kuja                                                    ?
-  Gol D. Roger                       Équipage des Pirates de Roger                           ?
+  Gol D. Roger                       Équipage des Pirates de Roger             5 564 800 000 B
   Goldberg                           Sans affiliation                                        ?
   Guernica                           CP-AIGIS0                                               ?
   Hack                               Armée Révolutionnaire                                   ?
@@ -1959,7 +1959,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Jabra                              CP-AIGIS0                                               ?
   Jack                               Équipage des cent bêtes                   1 000 000 000 B
   Jaguar D. Saul                     Marines                                                 ?
-  Jango                              Marine                                                  ?
+  Jango                              Marine                                        9 000 000 B
   Jarl                               L'Équipage des Géants                                   ?
   Jean Bart                          L'Équipage du Heart                         100 000 000 B
   Jesus Burgess                      Équipage de Barbe Noire                      20 000 000 B
@@ -2010,7 +2010,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Lacroix                            Marines                                                 ?
   Lafitte                            L'Équipage de Barbe Noire                    42 200 000 B
   Laki                               Shandias                                                ?
-  Lao G                              Équipage de Don Quijote                                 ?
+  Lao G                              Équipage de Don Quijote                      61 000 000 B
   Lassou                             Baroque Works                                           ?
   Leo                                Équipage des Tontatta                                   ?
   Lilith                             Gouvernement Mondial                                    ?
@@ -2019,7 +2019,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Loki                               Sans affiliation                          2 600 000 000 B
   Lucky Roo                          L'Équipage du Roux                                      ?
   Lulu                               Galley-La Company                                       ?
-  Machvise                           Équipage de Don Quijote                                 ?
+  Machvise                           Équipage de Don Quijote                      11 000 000 B
   Magellan                           Gouvernement Mondial                                    ?
   Magra                              Famille Dadan                                           ?
   Makino                             Sans affiliation                                        ?
@@ -2049,7 +2049,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Morley                             Révolutionnaires                            293 000 000 B
   Mozu et Kiwi                       Franky Family                                           ?
   Mr 9                               Baroque Works                                           ?
-  Mr. 2 Bon Clay                     Impel Down                                              ?
+  Mr. 2 Bon Clay                     Impel Down                                   32 000 000 B
   Mr. 5                              Baroque Works                                10 000 000 B
   Nami                               Équipage du Chapeau de Paille               366 000 000 B
   Nefeltari Cobra                    Famille Nefertari                                       ?
@@ -2059,7 +2059,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Neptune                            royaume Ryugu                                           ?
   Nero                               CP9                                                     ?
   Nezumi                             Marine                                                  ?
-  Nico Olvia                         Ohara                                                   ?
+  Nico Olvia                         Ohara                                        79 000 000 B
   Nico Robin                         Équipage du Chapeau de Paille               930 000 000 B
   Nojiko                             Sans affiliation                                        ?
   Oars                               Thriller Bark                                           ?
@@ -2081,12 +2081,12 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Pell                               Sans affiliation                                        ?
   Penguin                            Équipage du Heart                                       ?
   Perona                             Dracule Mihawk                                          ?
-  Pica                               Équipage de Don Quijote                                 ?
+  Pica                               Équipage de Don Quijote                      99 000 000 B
   Pierre                             Gan Forr                                                ?
   Piment                             L'Équipage du Capitaine Usopp                           ?
   Porche                             L'Équipage de Foxy                                      ?
   Porchemy                           L'Équipage de Bluejam                         3 400 000 B
-  Portgas D. Ace                     Équipage de Barbe Blanche                               ?
+  Portgas D. Ace                     Équipage de Barbe Blanche                   550 000 000 B
   Pound                              Famille Charlotte                                       ?
   Pythagoras                         Gouvernement Mondial                                    ?
   Queen                              Équipage des cent bêtes                   1 320 000 000 B
@@ -2135,9 +2135,9 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Satori                             Clan d'Ener                                             ?
   Scarlett                           Dressrosa                                               ?
   Scopper Gaban                      L'Équipage des Pirates Roger                            ?
-  Scratchmen Apoo                    Équipage du On-Air                                      ?
+  Scratchmen Apoo                    Équipage du On-Air                          198 000 000 B
   Sengoku                            Marine                                                  ?
-  Senor Pink                         Impel Down                                              ?
+  Senor Pink                         Impel Down                                   58 000 000 B
   Sentomaru                          Marine                                      500 000 000 B
   Shaka                              Gouvernement mondial                                    ?
   Shakky                             Rip-Off Bar de Shakky                                   ?
@@ -2185,7 +2185,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Tony Tony Chopper                  Équipage du Chapeau de Paille                     1 000 B
   Toto                               Alabasta                                                ?
   Trafalgar D. Water Law             Équipage du Heart                         3 000 000 000 B
-  Trebol                             Équipage de Don Quijote                                 ?
+  Trebol                             Équipage de Don Quijote                      99 000 000 B
   Ulti                               Équipage des cent bêtes                     400 000 000 B
   Urouge                             Équipage des moines dépravés                108 000 000 B
   Usopp                              Équipage du Chapeau de Paille               500 000 000 B
@@ -2223,132 +2223,156 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Zeo                                Nouvel équipage des hommes-poissons                     ?
 
 ####################################################################################################
-  3. CLASSEMENT DES PRIMES  (123 personnages à prime connue)
+  3. CLASSEMENT DES PRIMES  (147 personnages à prime connue)
 ####################################################################################################
 
-    1. Kaido                                 4 611 100 000 B   L'Équipage de Rocks
-    2. Big Mom                               4 388 000 000 B   L'Équipage de Rocks
-    3. Shanks                                4 048 900 000 B   L'Équipage du Roux
-    4. Akainu                                4 000 000 000 B   Marine
-    5. Barbe Noire                           3 996 000 000 B   L'Équipage de Barbe Noire
-    6. Dracule Mihawk                        3 590 000 000 B   Cross Guild
-    7. Buggy                                 3 189 000 000 B   Cross Guild
-    8. Eustass Kid                           3 000 000 000 B   L'Équipage de Kid
-    9. Fujitora                              3 000 000 000 B   Marines
-   10. Kizaru                                3 000 000 000 B   Marines
-   11. Monkey D. Garp                        3 000 000 000 B   Marines
-   12. Monkey D. Luffy                       3 000 000 000 B   Équipage du Chapeau de Paille
-   13. Ryokugyu                              3 000 000 000 B   Marine
-   14. Trafalgar D. Water Law                3 000 000 000 B   Équipage du Heart
-   15. Loki                                  2 600 000 000 B   Sans affiliation
-   16. Crocodile                             1 965 000 000 B   Cross Guild
-   17. Brogy                                 1 800 000 000 B   Équipage des Géants
-   18. Dorry                                 1 800 000 000 B   L'Équipage des Géants
-   19. Boa Hancock                           1 659 000 000 B   Kujas
-   20. King                                  1 390 000 000 B   Équipage des cent bêtes
-   21. Marco                                 1 374 000 000 B   Équipage de Barbe Blanche
-   22. Queen                                 1 320 000 000 B   Équipage des cent bêtes
-   23. Roronoa Zoro                          1 111 000 000 B   Équipage du Chapeau de Paille
-   24. Jinbe                                 1 100 000 000 B   Équipage du Chapeau de Paille
-   25. Charlotte Katakuri                    1 057 000 000 B   Équipage de Big Mom
-   26. Sanji                                 1 032 000 000 B   Équipage du Chapeau de Paille
-   27. Jack                                  1 000 000 000 B   Équipage des cent bêtes
-   28. Charlotte Smoothie                      932 000 000 B   Famille Charlotte
-   29. Nico Robin                              930 000 000 B   Équipage du Chapeau de Paille
-   30. Charlotte Cracker                       860 000 000 B   Famille Charlotte
-   31. Charlotte Perospero                     700 000 000 B   Famille Charlotte
-   32. Sabo                                    602 000 000 B   Armée Révolutionnaire
-   33. Charlotte Snack                         600 000 000 B   Équipage de Big Mom
-   34. Little Oars Jr.                         550 000 000 B   équipage de Barbe Blanche
-   35. Who's-Who                               546 000 000 B   Équipage des cent bêtes
-   36. Chinjao                                 542 000 000 B   Famille Chinjao
-   37. Izo                                     510 000 000 B   L'Équipage de Barbe Blanche
-   38. Koby                                    500 000 000 B   L'Équipage d'Alvida
-   39. Sentomaru                               500 000 000 B   Marine
-   40. Usopp                                   500 000 000 B   Équipage du Chapeau de Paille
-   41. Black Maria                             480 000 000 B   Équipage des cent bêtes
-   42. Sasaki                                  472 000 000 B   Équipage des cent bêtes
-   43. Belo Betty                              457 000 000 B   Révolutionnaires
-   44. Tamago                                  429 000 000 B   Équipage de Big Mom
-   45. Karasu                                  400 000 000 B   Révolutionnaires
-   46. Ulti                                    400 000 000 B   Équipage des cent bêtes
-   47. Franky                                  394 000 000 B   Équipage du Chapeau de Paille
-   48. Brook                                   383 000 000 B   Équipage du Chapeau de Paille
-   49. Pedro                                   382 000 000 B   Zou
-   50. Nami                                    366 000 000 B   Équipage du Chapeau de Paille
-   51. Capone Bege                             350 000 000 B   Équipage du Fire Tank
-   52. Cavendish                               330 000 000 B   Équipage des Jolis Pirates
-   53. Pekoms                                  330 000 000 B   Équipage de Big Mom
-   54. Basil Hawkins                           320 000 000 B   Équipage de Hawkins
-   55. Gecko Moria                             320 000 000 B   Thriller Bark
-   56. Jewelry Bonney                          320 000 000 B   L'Équipage de Bonney
-   57. Lindbergh                               316 000 000 B   Révolutionnaires
-   58. Caesar Clown                            300 000 000 B   Équipage du Fire Tank
-   59. Charlotte Daifuku                       300 000 000 B   Famille Charlotte
-   60. Charlotte Oven                          300 000 000 B   Famille Charlotte
-   61. Morley                                  293 000 000 B   Révolutionnaires
-   62. Page One                                290 000 000 B   Équipage des cent bêtes
-   63. X Drake                                 222 000 000 B   L'Équipage de X. Barrels
-   64. Caribou                                 210 000 000 B   Équipage de Caribou
-   65. Sai                                     210 000 000 B   Flotte de Happou
-   66. Squardo                                 210 000 000 B   L'Équipage de Barbe Blanche
-   67. Killer                                  200 000 000 B   Équipage de Kidd
-   68. Bellamy                                 195 000 000 B   Équipage de Bellamy
-   69. Coribou                                 190 000 000 B   L'Équipage de Caribou
-   70. Orlumbus                                148 000 000 B   Yonta Maria
-   71. Charlotte Mont d'Or                     120 000 000 B   L'Équipage de Big Mom
-   72. Urouge                                  108 000 000 B   Équipage des moines dépravés
-   73. Avalo Pizarro                           100 000 000 B   Équipage de Barbe Noire
-   74. Catarina Devon                          100 000 000 B   Équipage de Barbe Noire
-   75. Emporio Ivankov                         100 000 000 B   Armée Révolutionnaire
-   76. Helmeppo                                100 000 000 B   Marine
-   77. Inazuma                                 100 000 000 B   Révolutionnaires
-   78. Jean Bart                               100 000 000 B   L'Équipage du Heart
-   79. Sanjuan Wolf                            100 000 000 B   Équipage de Barbe Noire
-   80. Vasco Shot                              100 000 000 B   Équipage de Barbe Noire
-   81. Vito                                     95 000 000 B   Équipage du Fire Tank
-   82. Rockstar                                 94 000 000 B   Équipage du Roux
-   83. Daz Bones                                75 000 000 B   Baroque Works
-   84. Doc Q                                    72 000 000 B   L'Équipage de Barbe Noire
-   85. Suleiman                                 67 000 000 B   Équipage des Jolis Pirates
-   86. Van Augur                                64 000 000 B   Équipage de Barbe Noire
-   87. Zeff                                     60 000 000 B   Baratie
-   88. Kelly Funk                               57 000 000 B   Sans affiliation
-   89. Abdullah et Jeet                         50 000 000 B   Équipage d'Ideo
-   90. Boo                                      50 000 000 B   Flotte de Happou
-   91. Lafitte                                  42 200 000 B   L'Équipage de Barbe Noire
-   92. Boa Marigold                             40 000 000 B   Kujas
-   93. Boa Sandersonia                          40 000 000 B   Kujas
-   94. Sarquiss                                 38 000 000 B   Équipage de Bellamy
-   95. Bobby Funk                               36 000 000 B   Sans affiliation
-   96. Shojo                                    36 000 000 B   Ligue des Primates
-   97. Miss Doublefinger                        35 000 000 B   Baroque Works
-   98. Miss Goldenweek                          29 000 000 B   Baroque Works
-   99. Demalo Black                             26 000 000 B   Faux Équipage du Chapeau de Paille
-  100. Mont Blanc Cricket                       25 000 000 B   Ligue des Primates
-  101. Charlotte Laura                          24 000 000 B   L'Équipage du Rolling
-  102. Foxy                                     24 000 000 B   L'Équipage de Foxy
-  103. Galdino                                  24 000 000 B   Alliance Baggy et Alvida/Les Pirates d'Exp
-  104. Masira                                   23 000 000 B   Forces Spéciales Simiesques
-  105. Jesus Burgess                            20 000 000 B   Équipage de Barbe Noire
-  106. Yeti Cool Brothers                       20 000 000 B   César Clown
-  107. Don Krieg                                17 000 000 B   Armada de Don Krieg
-  108. Kuro                                     16 000 000 B   Équipage du Chat Noir
-  109. Gin                                      12 000 000 B   Armada de Don Krieg
-  110. Mr. 5                                    10 000 000 B   Baroque Works
-  111. Kuroobi                                   9 000 000 B   Équipage d'Arlong
-  112. Hatchan                                   8 000 000 B   Takoyaki 8
-  113. Higuma                                    8 000 000 B   Sans affiliation
-  114. Curly Dadan                               7 800 000 B   Bandits#Bandits des montagnes
-  115. Miss Valentine                            7 500 000 B   Baroque Works
-  116. Buchi                                     7 000 000 B   L'Équipage du Chat Noir
-  117. Sham                                      7 000 000 B   Équipage du Chat Noir
-  118. Chew                                      5 500 000 B   Équipage d'Arlong
-  119. Alvida                                    5 000 000 B   Alliance Baggy et Alvida
-  120. Porchemy                                  3 400 000 B   L'Équipage de Bluejam
-  121. Pandaman                                  3 333 333 B   Équipage de Pandaman; Panda Family
-  122. Bepo                                          1 500 B   Équipage du Heart
-  123. Tony Tony Chopper                             1 000 B   Équipage du Chapeau de Paille
+    1. Gol D. Roger                          5 564 800 000 B   Équipage des Pirates de Roger
+    2. Barbe Blanche                         5 046 000 000 B   Pirates/Quatre Empereurs
+    3. Kaido                                 4 611 100 000 B   L'Équipage de Rocks
+    4. Big Mom                               4 388 000 000 B   L'Équipage de Rocks
+    5. Shanks                                4 048 900 000 B   L'Équipage du Roux
+    6. Akainu                                4 000 000 000 B   Marine
+    7. Barbe Noire                           3 996 000 000 B   L'Équipage de Barbe Noire
+    8. Dracule Mihawk                        3 590 000 000 B   Cross Guild
+    9. Buggy                                 3 189 000 000 B   Cross Guild
+   10. Eustass Kid                           3 000 000 000 B   L'Équipage de Kid
+   11. Fujitora                              3 000 000 000 B   Marines
+   12. Kizaru                                3 000 000 000 B   Marines
+   13. Monkey D. Garp                        3 000 000 000 B   Marines
+   14. Monkey D. Luffy                       3 000 000 000 B   Équipage du Chapeau de Paille
+   15. Ryokugyu                              3 000 000 000 B   Marine
+   16. Trafalgar D. Water Law                3 000 000 000 B   Équipage du Heart
+   17. Loki                                  2 600 000 000 B   Sans affiliation
+   18. Crocodile                             1 965 000 000 B   Cross Guild
+   19. Brogy                                 1 800 000 000 B   Équipage des Géants
+   20. Dorry                                 1 800 000 000 B   L'Équipage des Géants
+   21. Boa Hancock                           1 659 000 000 B   Kujas
+   22. King                                  1 390 000 000 B   Équipage des cent bêtes
+   23. Marco                                 1 374 000 000 B   Équipage de Barbe Blanche
+   24. Queen                                 1 320 000 000 B   Équipage des cent bêtes
+   25. Roronoa Zoro                          1 111 000 000 B   Équipage du Chapeau de Paille
+   26. Jinbe                                 1 100 000 000 B   Équipage du Chapeau de Paille
+   27. Charlotte Katakuri                    1 057 000 000 B   Équipage de Big Mom
+   28. Sanji                                 1 032 000 000 B   Équipage du Chapeau de Paille
+   29. Jack                                  1 000 000 000 B   Équipage des cent bêtes
+   30. Charlotte Smoothie                      932 000 000 B   Famille Charlotte
+   31. Nico Robin                              930 000 000 B   Équipage du Chapeau de Paille
+   32. Charlotte Cracker                       860 000 000 B   Famille Charlotte
+   33. Charlotte Perospero                     700 000 000 B   Famille Charlotte
+   34. Sabo                                    602 000 000 B   Armée Révolutionnaire
+   35. Charlotte Snack                         600 000 000 B   Équipage de Big Mom
+   36. Little Oars Jr.                         550 000 000 B   équipage de Barbe Blanche
+   37. Portgas D. Ace                          550 000 000 B   Équipage de Barbe Blanche
+   38. Who's-Who                               546 000 000 B   Équipage des cent bêtes
+   39. Chinjao                                 542 000 000 B   Famille Chinjao
+   40. Izo                                     510 000 000 B   L'Équipage de Barbe Blanche
+   41. Koby                                    500 000 000 B   L'Équipage d'Alvida
+   42. Sentomaru                               500 000 000 B   Marine
+   43. Usopp                                   500 000 000 B   Équipage du Chapeau de Paille
+   44. Black Maria                             480 000 000 B   Équipage des cent bêtes
+   45. Edward Weevil                           480 000 000 B   Pirates/Sept grands corsaires
+   46. Sasaki                                  472 000 000 B   Équipage des cent bêtes
+   47. Belo Betty                              457 000 000 B   Révolutionnaires
+   48. Tamago                                  429 000 000 B   Équipage de Big Mom
+   49. Karasu                                  400 000 000 B   Révolutionnaires
+   50. Ulti                                    400 000 000 B   Équipage des cent bêtes
+   51. Franky                                  394 000 000 B   Équipage du Chapeau de Paille
+   52. Brook                                   383 000 000 B   Équipage du Chapeau de Paille
+   53. Pedro                                   382 000 000 B   Zou
+   54. Nami                                    366 000 000 B   Équipage du Chapeau de Paille
+   55. Capone Bege                             350 000 000 B   Équipage du Fire Tank
+   56. Donquixote Doflamingo                   340 000 000 B   Équipage de Don Quijote
+   57. Cavendish                               330 000 000 B   Équipage des Jolis Pirates
+   58. Pekoms                                  330 000 000 B   Équipage de Big Mom
+   59. Basil Hawkins                           320 000 000 B   Équipage de Hawkins
+   60. Gecko Moria                             320 000 000 B   Thriller Bark
+   61. Jewelry Bonney                          320 000 000 B   L'Équipage de Bonney
+   62. Lindbergh                               316 000 000 B   Révolutionnaires
+   63. Caesar Clown                            300 000 000 B   Équipage du Fire Tank
+   64. Charlotte Daifuku                       300 000 000 B   Famille Charlotte
+   65. Charlotte Oven                          300 000 000 B   Famille Charlotte
+   66. Bartholomew Kuma                        296 000 000 B   Pirates/Sept Grands Corsaires
+   67. Morley                                  293 000 000 B   Révolutionnaires
+   68. Page One                                290 000 000 B   Équipage des cent bêtes
+   69. Fisher Tiger                            230 000 000 B   L'Équipage des Pirates du Soleil
+   70. X Drake                                 222 000 000 B   L'Équipage de X. Barrels
+   71. Caribou                                 210 000 000 B   Équipage de Caribou
+   72. Sai                                     210 000 000 B   Flotte de Happou
+   73. Squardo                                 210 000 000 B   L'Équipage de Barbe Blanche
+   74. Killer                                  200 000 000 B   Équipage de Kidd
+   75. Scratchmen Apoo                         198 000 000 B   Équipage du On-Air
+   76. Bellamy                                 195 000 000 B   Équipage de Bellamy
+   77. Coribou                                 190 000 000 B   L'Équipage de Caribou
+   78. Ginney                                  190 000 000 B   Armée Révolutionnaire
+   79. Bartolomeo                              150 000 000 B   L'Équipage de Bartolomeo
+   80. Orlumbus                                148 000 000 B   Yonta Maria
+   81. Charlotte Mont d'Or                     120 000 000 B   L'Équipage de Big Mom
+   82. Urouge                                  108 000 000 B   Équipage des moines dépravés
+   83. Avalo Pizarro                           100 000 000 B   Équipage de Barbe Noire
+   84. Catarina Devon                          100 000 000 B   Équipage de Barbe Noire
+   85. Emporio Ivankov                         100 000 000 B   Armée Révolutionnaire
+   86. Helmeppo                                100 000 000 B   Marine
+   87. Inazuma                                 100 000 000 B   Révolutionnaires
+   88. Jean Bart                               100 000 000 B   L'Équipage du Heart
+   89. Sanjuan Wolf                            100 000 000 B   Équipage de Barbe Noire
+   90. Vasco Shot                              100 000 000 B   Équipage de Barbe Noire
+   91. Diamante                                 99 000 000 B   Équipage de Don Quijote
+   92. Pica                                     99 000 000 B   Équipage de Don Quijote
+   93. Trebol                                   99 000 000 B   Équipage de Don Quijote
+   94. Vito                                     95 000 000 B   Équipage du Fire Tank
+   95. Rockstar                                 94 000 000 B   Équipage du Roux
+   96. Barbe Brune                              80 060 000 B   César Clown
+   97. Nico Olvia                               79 000 000 B   Ohara
+   98. Daz Bones                                75 000 000 B   Baroque Works
+   99. Doc Q                                    72 000 000 B   L'Équipage de Barbe Noire
+  100. Suleiman                                 67 000 000 B   Équipage des Jolis Pirates
+  101. Van Augur                                64 000 000 B   Équipage de Barbe Noire
+  102. Lao G                                    61 000 000 B   Équipage de Don Quijote
+  103. Zeff                                     60 000 000 B   Baratie
+  104. Senor Pink                               58 000 000 B   Impel Down
+  105. Kelly Funk                               57 000 000 B   Sans affiliation
+  106. Abdullah et Jeet                         50 000 000 B   Équipage d'Ideo
+  107. Boo                                      50 000 000 B   Flotte de Happou
+  108. Lafitte                                  42 200 000 B   L'Équipage de Barbe Noire
+  109. Boa Marigold                             40 000 000 B   Kujas
+  110. Boa Sandersonia                          40 000 000 B   Kujas
+  111. Sarquiss                                 38 000 000 B   Équipage de Bellamy
+  112. Bobby Funk                               36 000 000 B   Sans affiliation
+  113. Shojo                                    36 000 000 B   Ligue des Primates
+  114. Miss Doublefinger                        35 000 000 B   Baroque Works
+  115. Mr. 2 Bon Clay                           32 000 000 B   Impel Down
+  116. Gladius                                  31 000 000 B   Équipage de Don Quijote
+  117. Miss Goldenweek                          29 000 000 B   Baroque Works
+  118. Demalo Black                             26 000 000 B   Faux Équipage du Chapeau de Paille
+  119. Mont Blanc Cricket                       25 000 000 B   Ligue des Primates
+  120. Charlotte Laura                          24 000 000 B   L'Équipage du Rolling
+  121. Foxy                                     24 000 000 B   L'Équipage de Foxy
+  122. Galdino                                  24 000 000 B   Alliance Baggy et Alvida/Les Pirates d'Exp
+  123. Masira                                   23 000 000 B   Forces Spéciales Simiesques
+  124. Arlong                                   20 000 000 B   Équipage d'Arlong
+  125. Jesus Burgess                            20 000 000 B   Équipage de Barbe Noire
+  126. Yeti Cool Brothers                       20 000 000 B   César Clown
+  127. Don Krieg                                17 000 000 B   Armada de Don Krieg
+  128. Kuro                                     16 000 000 B   Équipage du Chat Noir
+  129. Dellinger                                15 000 000 B   Équipage de Don Quijote
+  130. Bluejam                                  14 300 000 B   L'Équipage de Bluejam
+  131. Gin                                      12 000 000 B   Armada de Don Krieg
+  132. Machvise                                 11 000 000 B   Équipage de Don Quijote
+  133. Mr. 5                                    10 000 000 B   Baroque Works
+  134. Jango                                     9 000 000 B   Marine
+  135. Kuroobi                                   9 000 000 B   Équipage d'Arlong
+  136. Hatchan                                   8 000 000 B   Takoyaki 8
+  137. Higuma                                    8 000 000 B   Sans affiliation
+  138. Curly Dadan                               7 800 000 B   Bandits#Bandits des montagnes
+  139. Miss Valentine                            7 500 000 B   Baroque Works
+  140. Buchi                                     7 000 000 B   L'Équipage du Chat Noir
+  141. Sham                                      7 000 000 B   Équipage du Chat Noir
+  142. Chew                                      5 500 000 B   Équipage d'Arlong
+  143. Alvida                                    5 000 000 B   Alliance Baggy et Alvida
+  144. Porchemy                                  3 400 000 B   L'Équipage de Bluejam
+  145. Pandaman                                  3 333 333 B   Équipage de Pandaman; Panda Family
+  146. Bepo                                          1 500 B   Équipage du Heart
+  147. Tony Tony Chopper                             1 000 B   Équipage du Chapeau de Paille
 
 ####################################################################################################
   4. RÉPARTITIONS

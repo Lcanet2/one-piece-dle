@@ -22,8 +22,9 @@ Ou simplement ouvrir `index.html` dans le navigateur.
 - **3 modes** : Classique, Emoji (le personnage résumé en emojis) et Prime (retrouver
   le porteur d'une prime).
 - **Portraits** pour les 470 personnages, dans l'autocomplétion et la colonne « Personnage ».
-- **Défi du jour** uniquement : un personnage par mode et par jour, le même pour tout
-  le monde, tiré d'un hash de la date.
+- **Défi du jour**, avec rejeu des **6 jours précédents** : un personnage par mode et
+  par jour, le même pour tout le monde, tiré d'un hash de la date. Chaque jour garde sa
+  propre progression ; seules les parties du jour même comptent dans les statistiques.
 - **Progression sauvegardée** : les essais du jour sont conservés par mode en
   `localStorage`. Un rechargement restaure le plateau tel quel (et l'écran de résultat
   si tu as déjà trouvé) ; tout repart à zéro au changement de date.
@@ -35,10 +36,14 @@ Ou simplement ouvrir `index.html` dans le navigateur.
 
 Vert = exact, jaune = partiel, rouge = faux.
 
+Le jaune (« pas loin ») ne s'applique qu'à la prime, la taille, le Haki et la saga :
+sur l'affiliation, deux équipages de pirates sans rapport ressortaient en jaune,
+ce qui induisait en erreur.
+
 | Colonne | Vert | Jaune |
 |---|---|---|
 | Genre | identique | — |
-| Affiliation | même équipage | même camp (Pirate, Marine, Gouvernement…) |
+| Affiliation | même équipage | *(pas de correspondance partielle)* |
 | Fruit du Démon | même type | même famille Zoan, ou deux fruits différents |
 | Haki (💪 noirci = Armement, 👁️ Observation, 👑 Rois) | mêmes types | au moins un type en commun |
 | Prime | identique | écart ≤ 20 % |

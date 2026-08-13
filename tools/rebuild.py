@@ -139,6 +139,12 @@ if manquants: print("NON TROUVÉS :", sorted(manquants))
 
 # Renommages : le wiki fr utilise parfois le vrai nom là où l'œuvre nous a fait
 # connaître un surnom (amiraux, Baroque Works…). tools/renames.json fait foi.
+# Les catégories Haki du wiki sont incomplètes : corrections manuelles.
+HAKI_FIX = {k: v for k, v in json.load(open(ROOT+'tools/haki-fixes.json')).items()
+            if not k.startswith('_')}
+for r in rows:
+    if r[0] in HAKI_FIX: r[5] = HAKI_FIX[r[0]]
+
 RENAMES = json.load(open(ROOT+'tools/renames.json'))
 for r in rows:
     if r[0] in RENAMES: r[0] = RENAMES[r[0]]

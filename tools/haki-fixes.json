@@ -1,0 +1,17 @@
+{
+  "_comment": "Les catégories Haki du wiki sont incomplètes (Lucci n'est pas listé comme utilisateur d'Armement alors qu'il en use). Ces corrections sont appliquées après l'import. A = Armement, O = Observation, R = Rois.",
+  "Rob Lucci": "AO",
+  "Donquixote Doflamingo": "AOR",
+  "Kozuki Oden": "AOR",
+  "Eustass Kid": "AOR",
+  "Crocodile": "AO",
+  "King": "AO",
+  "Shiryu": "AO",
+  "Who's-Who": "AO",
+  "Charlotte Cracker": "AO",
+  "Charlotte Snack": "A",
+  "Killer": "A",
+  "Ulti": "A",
+  "Capone Bege": "A",
+  "Jesus Burgess": "A"
+}

@@ -165,12 +165,10 @@ function compareField(col, guess, target) {
     case "exact":
       return { state: gv === tv ? "ok" : "no", text: col.fmt ? col.fmt(gv) : gv };
 
-    case "affil": {
-      let state = "no";
-      if (gv === tv) state = "ok";
-      else if (guess.camp === target.camp) state = "mid";
-      return { state, text: gv };
-    }
+    case "affil":
+      // pas de "pas loin" ici : deux pirates d'équipages sans rapport
+      // ressortaient en jaune, ce qui induisait en erreur
+      return { state: gv === tv ? "ok" : "no", text: gv };
 
     case "fruit": {
       let state = "no";
@@ -238,19 +236,25 @@ function stats(mode) {
   return s.stats[mode];
 }
 /* Progression du jour, par mode. Repartie à zéro dès que la date change. */
-function loadProgress(mode) {
-  const p = (loadStore().progress || {})[mode];
-  return (p && p.date === todayKey(0)) ? p : null;
+function cleDuJour() { return todayKey(state.dayOffset); }
+
+/* Une entrée par mode ET par jour : rejouer un jour passé ne doit pas
+   écraser la partie d'un autre jour. */
+function cleProgression() { return state.mode + "|" + cleDuJour(); }
+
+function loadProgress() {
+  return (loadStore().progress || {})[cleProgression()] || null;
 }
 function saveProgress() {
   const s = loadStore();
   s.progress = s.progress || {};
-  // on ne garde que le mode courant à la date du jour : les autres sont purgés s'ils ont expiré
-  Object.keys(s.progress).forEach(m => {
-    if (s.progress[m].date !== todayKey(0)) delete s.progress[m];
+  // purge de tout ce qui sort de la fenêtre rejouable
+  const valides = [];
+  for (let i = 0; i < JOURS_REJOUABLES; i++) valides.push(todayKey(-i));
+  Object.keys(s.progress).forEach(k => {
+    if (!valides.includes(k.split("|")[1])) delete s.progress[k];
   });
-  s.progress[state.mode] = {
-    date: todayKey(0),
+  s.progress[cleProgression()] = {
     guesses: state.guesses.map(g => g.nom),
     finished: state.finished
   };
@@ -267,8 +271,11 @@ function recordWin(mode, tries) {
 }
 
 /* ---------- 7. État ---------- */
+const JOURS_REJOUABLES = 7;   // aujourd'hui + les 6 jours précédents
+
 const state = {
   mode: "classique",
+  dayOffset: 0,               // 0 = aujourd'hui, -1 = hier…
   target: null,
   guesses: [],
   finished: false
@@ -282,7 +289,9 @@ const el = {
   sug: $("suggestions"), tryCount: $("try-count"), poolCount: $("pool-count"),
   result: $("result"), boardHead: $("board-head"), board: $("board"),
   hints: $("hints"), hintGrid: $("hint-grid"),
-  modal: $("modal"), modalBody: $("modal-body"), modalX: $("modal-x")
+  modal: $("modal"), modalBody: $("modal-body"), modalX: $("modal-x"),
+  dayPrev: $("day-prev"), dayNext: $("day-next"), dayText: $("day-text"),
+  dayNav: document.querySelector(".day-nav")
 };
 
 /* ---------- 9. Rendu ---------- */
@@ -373,6 +382,16 @@ function renderHints() {
   }).join("");
 }
 
+function renderDay() {
+  const j = state.dayOffset;
+  el.dayText.textContent = j === 0 ? "Défi du jour"
+    : new Date(Date.now() + j * 86400000).toLocaleDateString("fr-FR",
+        { weekday: "long", day: "numeric", month: "long" });
+  el.dayPrev.disabled = j <= -(JOURS_REJOUABLES - 1);
+  el.dayNext.disabled = j >= 0;
+  if (el.dayNav) el.dayNav.classList.toggle("passe", j < 0);
+}
+
 function renderCounters() {
   el.tryCount.textContent = state.guesses.length;
   el.poolCount.textContent = CHARACTERS.length;
@@ -382,7 +401,7 @@ function shareText() {
   const lines = state.guesses.map(g =>
     COLUMNS.slice(1).map(c => ({ ok: "🟩", mid: "🟨", no: "🟥" }[compareField(c, g, state.target).state])).join("")
   );
-  return `OnePieceDle — ${MODES[state.mode].label} ${todayKey(0)}\n` +
+  return `OnePieceDle — ${MODES[state.mode].label} ${cleDuJour()}\n` +
          `${state.guesses.length} essai(s)\n` + lines.join("\n");
 }
 
@@ -406,7 +425,7 @@ function renderResult(won) {
     <h2 class="${won ? "win" : "lose"}">${won ? "Trouvé !" : "Perdu"}</h2>
     <p>Le personnage était <strong>${t.nom}</strong> — ${t.equipage}${t.prime > 0 ? " · prime de " + t.prime.toLocaleString("fr-FR") + " berries" : ""}.
        ${won ? "Résolu en <strong>" + state.guesses.length + "</strong> essai(s)." : ""}</p>
-    <p>Prochain personnage dans <span class="countdown" id="cd">--:--:--</span></p>
+    ${state.dayOffset === 0 ? `<p>Prochain personnage dans <span class="countdown" id="cd">--:--:--</span></p>` : `<p>Partie rejouée — les statistiques ne sont pas comptées.</p>`}
     ${wikiLink(t)}
     <div class="actions">
       <button class="primary" id="btn-share"><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="8.5" y="3.5" width="11" height="14" rx="2"/><path d="M15.5 20.5h-9a2 2 0 0 1-2-2v-11"/></svg><span>Partager</span></button>
@@ -419,8 +438,10 @@ function renderResult(won) {
       .catch(() => toast("Copie impossible sur ce navigateur"));
   };
   clearInterval(countdownTimer);
-  const tick = () => { const c = $("cd"); if (c) c.textContent = fmtDuration(msUntilMidnight()); };
-  tick(); countdownTimer = setInterval(tick, 1000);
+  if (state.dayOffset === 0) {          // le compte à rebours n'a de sens qu'aujourd'hui
+    const tick = () => { const c = $("cd"); if (c) c.textContent = fmtDuration(msUntilMidnight()); };
+    tick(); countdownTimer = setInterval(tick, 1000);
+  }
 }
 
 function wikiLink(c) {
@@ -439,7 +460,7 @@ function toast(msg) {
 
 /* ---------- 10. Boucle de jeu ---------- */
 function newGame() {
-  state.target = dailyCharacter(state.mode, 0);
+  state.target = dailyCharacter(state.mode, state.dayOffset);
   state.guesses = [];
   state.finished = false;
   el.board.innerHTML = "";
@@ -449,9 +470,10 @@ function newGame() {
   el.btn.disabled = false;
   hideSuggestions();
   renderHead();
+  renderDay();
 
   // rejoue la partie du jour si elle est déjà entamée
-  const saved = loadProgress(state.mode);
+  const saved = loadProgress();
   if (saved) {
     saved.guesses.forEach(nom => {
       const c = BY_KEY.get(norm(nom));
@@ -488,7 +510,7 @@ function submitGuess(raw) {
     state.finished = true;
     el.input.disabled = true;
     el.btn.disabled = true;
-    recordWin(state.mode, state.guesses.length);
+    if (state.dayOffset === 0) recordWin(state.mode, state.guesses.length);
     setTimeout(() => renderResult(true), 700);
   }
   saveProgress();
@@ -578,6 +600,13 @@ el.modes.addEventListener("click", e => {
   el.heroSub.textContent = MODES[state.mode].sub;
   newGame();
 });
+
+el.dayPrev.onclick = () => {
+  if (state.dayOffset > -(JOURS_REJOUABLES - 1)) { state.dayOffset--; newGame(); }
+};
+el.dayNext.onclick = () => {
+  if (state.dayOffset < 0) { state.dayOffset++; newGame(); }
+};
 
 el.btn.onclick = () => {
   const items = [...el.sug.querySelectorAll("li")];
