@@ -79,13 +79,21 @@ def _ignorer(x):
 def liens(v):
     return [m.group(1).strip() for m in re.finditer(r'\[\[([^\]|]+)(?:\|[^\]]*)?\]\]', v)]
 
+ANCIEN = re.compile(r'anciennement|ancien\b|ex-', re.I)
+
 def lien1(v):
+    """Affiliation principale : on privilégie les lignes qui ne sont pas
+    marquées « (anciennement) », sinon Koby resterait rattaché à l'équipage
+    d'Alvida au lieu de la Marine."""
+    segments = [seg for seg in re.split(r'<br\s*/?>|\n', v) if seg.strip()]
+    actuels  = [seg for seg in segments if not ANCIEN.search(seg)]
+    for source in (actuels, segments):
+        for seg in source:
+            for x in liens(seg):
+                if not _ignorer(x): return x[:42]
     ls = liens(v)
-    if not ls:
-        return re.sub(r'<[^>]+>','',v).strip().split('\n')[0].strip()[:42]
-    for x in ls:                      # premier lien réellement exploitable
-        if not _ignorer(x): return x[:42]
-    return ls[0][:42]
+    if ls: return ls[0][:42]
+    return re.sub(r'<[^>]+>','',v).strip().split('\n')[0].strip()[:42]
 
 IGNORE_APP = re.compile(r'mentionn|silhouette|couverture|hors-série|cameo', re.I)
 
@@ -157,15 +165,53 @@ if manquants: print("NON TROUVÉS :", sorted(manquants))
 
 # Renommages : le wiki fr utilise parfois le vrai nom là où l'œuvre nous a fait
 # connaître un surnom (amiraux, Baroque Works…). tools/renames.json fait foi.
+# Renommages d'abord : tous les fichiers de correction ci-dessous
+# désignent les personnages par leur nom final, celui affiché dans le jeu.
+RENAMES = json.load(open(ROOT+'tools/renames.json'))
+for r in rows:
+    if r[0] in RENAMES: r[0] = RENAMES[r[0]]
+
+# Certaines infobox n'ont pas de champ « affiliation » du tout : le groupe est
+# alors fixé à la main d'après les catégories de la fiche.
+AFFIL_FIX = {k: v for k, v in json.load(open(ROOT+'tools/affiliations.json')).items()
+             if not k.startswith('_')}
+for r in rows:
+    if r[0] in AFFIL_FIX:
+        r[2] = AFFIL_FIX[r[0]]
+        # le camp suit l'affiliation corrigée, sauf si celle-ci ne désigne
+        # aucun camp précis : on garde alors celui déduit de l'occupation
+        # (« Famille Royale d'Erbaf » ne dit pas que Loki est un pirate)
+        nouveau = camp(r[2])
+        if nouveau != "Civil": r[3] = nouveau
+
 # Les catégories Haki du wiki sont incomplètes : corrections manuelles.
 HAKI_FIX = {k: v for k, v in json.load(open(ROOT+'tools/haki-fixes.json')).items()
             if not k.startswith('_')}
 for r in rows:
     if r[0] in HAKI_FIX: r[5] = HAKI_FIX[r[0]]
 
-RENAMES = json.load(open(ROOT+'tools/renames.json'))
-for r in rows:
-    if r[0] in RENAMES: r[0] = RENAMES[r[0]]
+# Le wiki écrit le même groupe de plusieurs façons : « Marine » / « Marines »,
+# « Équipage de Big Mom » / « L'Équipage de Big Mom »… Deux membres du même
+# camp ressortaient alors en rouge l'un contre l'autre. On regroupe les
+# variantes et on retient l'orthographe la plus fréquente.
+import unicodedata, collections
+def _cle(a):
+    a = unicodedata.normalize('NFD', a.lower()).encode('ascii','ignore').decode()
+    a = re.sub(r"^(l')?(les |le |la |l')", '', a)
+    a = re.sub(r'[^a-z0-9 ]', '', a).strip()
+    a = re.sub(r's\b', '', a)
+    return re.sub(r'\s+', ' ', a)
+
+_freq = collections.Counter(r[2] for r in rows)
+_groupes = collections.defaultdict(list)
+for a in _freq: _groupes[_cle(a)].append(a)
+_canon = {}
+for variantes in _groupes.values():
+    ref = max(variantes, key=lambda a: (_freq[a], -len(a)))
+    for a in variantes: _canon[a] = ref
+_fusions = sum(1 for a, r in _canon.items() if a != r)
+for r in rows: r[2] = _canon[r[2]]
+print(f"affiliations : {len(_freq)} libellés -> {len(_groupes)} groupes ({_fusions} variantes fusionnées)")
 
 # les 10 membres d'origine partagent exactement la même affiliation
 for r in rows:

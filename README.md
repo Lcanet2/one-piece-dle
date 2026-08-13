@@ -56,6 +56,20 @@ ce qui est le cas de plus de la moitié du roster.
 
 Les flèches ⬆ / ⬇ indiquent si la valeur cherchée est plus grande ou plus petite.
 
+## Affiliations
+
+Trois traitements pour que la colonne soit exploitable :
+
+- **Fiches sans champ `affiliation`** : le wiki n'en a tout simplement pas pour une
+  vingtaine de personnages (Chaka, Kawamatsu, Makino…). Le groupe est fixé à la main
+  dans `tools/affiliations.json`, d'après les catégories de leur fiche.
+- **Anciennes affiliations** : les lignes marquées « (anciennement) » sont déclassées,
+  sans quoi Koby resterait rattaché à l'équipage d'Alvida au lieu de la Marine.
+- **Variantes d'écriture** : le wiki écrit le même groupe de plusieurs façons
+  (« Marine » / « Marines », « Équipage de Big Mom » / « L'Équipage de Big Mom »).
+  Elles sont regroupées et ramenées à l'orthographe la plus fréquente — 20 variantes
+  fusionnées, sinon deux Marines ressortaient en rouge l'un contre l'autre.
+
 ## Première apparition
 
 La colonne « 1re apparition » est à la **granularité arc** (33 arcs, de Romance Dawn à
