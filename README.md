@@ -47,6 +47,10 @@ ce qui induisait en erreur.
 | Fruit du Démon | même type | même famille Zoan, ou deux fruits différents |
 | Haki (💪 noirci = Armement, 👁️ Observation, 👑 Rois) | mêmes types | au moins un type en commun |
 | Prime | identique | écart ≤ 20 % |
+
+Une prime non révélée s'affiche « 0฿ » et se compare comme un zéro : sans quoi la
+colonne restait sans flèche dès que le personnage mystère n'avait pas de prime connue,
+ce qui est le cas de plus de la moitié du roster.
 | Taille | identique | écart ≤ 15 cm |
 | 1re apparition | même arc | arc adjacent |
 

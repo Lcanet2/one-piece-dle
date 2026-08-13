@@ -141,7 +141,7 @@ const COLUMNS = [
   { key: "equipage", label: "Affiliation",type: "affil" },
   { key: "fruit",    label: "Fruit du Démon", type: "fruit" },
   { key: "haki",     label: "Haki",       type: "set" },
-  { key: "prime",    label: "Prime",      type: "num", fmt: fmtBounty },
+  { key: "prime",    label: "Prime",      type: "num", fmt: fmtBounty, zeroSiInconnu: true },
   { key: "taille",   label: "Taille",     type: "num", fmt: v => v < 0 ? "?" : (v >= 100 ? (v/100).toFixed(2).replace(".", ",") + " m" : v + " cm") },
   { key: "arcIdx",   label: "1re apparition", type: "num", fmt: v => ARCS[v] || "?" }
 ];
@@ -190,14 +190,18 @@ function compareField(col, guess, target) {
     }
 
     case "num": {
-      const unknown = gv < 0 || tv < 0;
       const text = col.fmt ? col.fmt(gv) : String(gv);
-      if (unknown) return { state: gv === tv ? "ok" : "no", text, arrow: "" };
-      if (gv === tv) return { state: "ok", text, arrow: "" };
-      const close = col.key === "taille" ? Math.abs(gv - tv) <= 15
-                  : col.key === "prime"  ? (Math.max(gv, tv) > 0 && Math.abs(gv - tv) / Math.max(gv, tv) <= 0.2)
-                  : Math.abs(gv - tv) === 1;
-      return { state: close ? "mid" : "no", text, arrow: gv < tv ? "⬆" : "⬇" };
+      // Une prime non révélée s'affiche « 0฿ » : elle se compare donc comme un
+      // zéro, sinon la colonne restait sans flèche dès que le personnage
+      // mystère n'avait pas de prime connue.
+      const g = col.zeroSiInconnu ? Math.max(0, gv) : gv;
+      const t = col.zeroSiInconnu ? Math.max(0, tv) : tv;
+      if (g < 0 || t < 0) return { state: g === t ? "ok" : "no", text, arrow: "" };
+      if (g === t) return { state: "ok", text, arrow: "" };
+      const close = col.key === "taille" ? Math.abs(g - t) <= 15
+                  : col.key === "prime"  ? (Math.max(g, t) > 0 && Math.abs(g - t) / Math.max(g, t) <= 0.2)
+                  : Math.abs(g - t) === 1;
+      return { state: close ? "mid" : "no", text, arrow: g < t ? "⬆" : "⬇" };
     }
   }
   return { state: "no", text: String(gv) };
