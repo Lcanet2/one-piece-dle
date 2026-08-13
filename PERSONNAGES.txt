@@ -611,7 +611,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : 1 032 000 000 B    Taille : 1,80 m     Origine : Inconnue                   1re app. : East Blue
   Tony Tony Chopper                🦌🎩💊
      Homme    · Zoan            · Haki : —
-     Prime : ?                  Taille : ?          Origine : Grand Line                 1re app. : Alabasta
+     Prime : 1 000 B            Taille : ?          Origine : Grand Line                 1re app. : Alabasta
   Usopp                            🤥🎯🌱
      Homme    · Aucun           · Haki : Observation
      Prime : 500 000 000 B      Taille : 1,76 m     Origine : Inconnue                   1re app. : East Blue
@@ -638,7 +638,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── ÉQUIPAGE DU HEART  (3) ──────────────────────────────────────────────────────────────────────────
   Bepo                             🐻‍❄️🥋
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,40 m     Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : 1 500 B            Taille : 2,40 m     Origine : Grand Line                 1re app. : Guerre au Sommet
   Penguin                          🐧🏴‍☠️
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : ?          Origine : North Blue                 1re app. : Guerre au Sommet
@@ -1778,7 +1778,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Bellemere                          Marine                                                  ?
   Belo Betty                         Révolutionnaires                            457 000 000 B
   Benn Beckman                       L'Équipage du Roux                                      ?
-  Bepo                               Équipage du Heart                                       ?
+  Bepo                               Équipage du Heart                                 1 500 B
   Big Mom                            L'Équipage de Rocks                       4 388 000 000 B
   Big Pan                            L'Équipage de Foxy                                      ?
   Black Maria                        Équipage des cent bêtes                     480 000 000 B
@@ -2182,7 +2182,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Tilestone                          Galley-La Company                                       ?
   Toko                               Pays des Wa                                             ?
   Tom                                Tom's Workers                                           ?
-  Tony Tony Chopper                  Équipage du Chapeau de Paille                           ?
+  Tony Tony Chopper                  Équipage du Chapeau de Paille                     1 000 B
   Toto                               Alabasta                                                ?
   Trafalgar D. Water Law             Équipage du Heart                         3 000 000 000 B
   Trebol                             Équipage de Don Quijote                                 ?
@@ -2223,7 +2223,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Zeo                                Nouvel équipage des hommes-poissons                     ?
 
 ####################################################################################################
-  3. CLASSEMENT DES PRIMES  (121 personnages à prime connue)
+  3. CLASSEMENT DES PRIMES  (123 personnages à prime connue)
 ####################################################################################################
 
     1. Kaido                                 4 611 100 000 B   L'Équipage de Rocks
@@ -2347,6 +2347,8 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   119. Alvida                                    5 000 000 B   Alliance Baggy et Alvida
   120. Porchemy                                  3 400 000 B   L'Équipage de Bluejam
   121. Pandaman                                  3 333 333 B   Équipage de Pandaman; Panda Family
+  122. Bepo                                          1 500 B   Équipage du Heart
+  123. Tony Tony Chopper                             1 000 B   Équipage du Chapeau de Paille
 
 ####################################################################################################
   4. RÉPARTITIONS

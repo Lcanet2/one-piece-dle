@@ -147,8 +147,8 @@ const COLUMNS = [
 ];
 
 function fmtBounty(v) {
-  if (v < 0) return "?";
-  if (v === 0) return "Aucune";
+  // pas de prime (inconnue ou inexistante) : 0 suivi du symbole berry
+  if (v <= 0) return "0\u0E3F";
   if (v >= 1e9) return (v / 1e9).toFixed(3).replace(/0+$/, "").replace(/\.$/, "").replace(".", ",") + " Md";
   if (v >= 1e6) return (v / 1e6).toFixed(0) + " M";
   return v.toLocaleString("fr-FR");

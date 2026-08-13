@@ -64,7 +64,7 @@ def strip_wiki(s):
 
 def get_bounty(fields):
     raw = fields.get("prime", "")
-    # notation "étoiles" des Marines : ce n'est pas une prime
+    # notation "étoiles/couronnes" des Marines : traitée ailleurs
     if "★" in raw or "{{C|" in raw or "{{c|" in raw:
         return None
     raw = strip_wiki(raw)
@@ -73,8 +73,16 @@ def get_bounty(fields):
     raw = re.sub(r'<strike>.*?</strike>', ' ', raw, flags=re.S|re.I)
     raw = re.sub(r'[^\n]*\(?anciennement\)?[^\n]*', ' ', raw, flags=re.I)
     if not raw.strip(): return None
-    nums = [int(re.sub(r'[.,\s ]', '', n)) for n in re.findall(r'\d[\d.,\s ]{5,}', raw)]
-    nums = [n for n in nums if 1000 <= n <= 10**13]
+
+    def _n(txt):
+        v = re.sub(r'[.,\s ]', '', txt)
+        return int(v) if v.isdigit() else None
+
+    # le montant suit le marqueur berry {{B}} / {{B|S}} : fiable même pour 1.000
+    nums = [n for n in (_n(m) for m in re.findall(r'\{\{B[^}]*\}\}\s*([\d.,\s ]+)', raw)) if n]
+    if not nums:   # repli : un nombre long isolé
+        nums = [n for n in (_n(m) for m in re.findall(r'\d[\d.,\s ]{5,}', raw)) if n]
+    nums = [n for n in nums if 1 <= n <= 10**13]
     return max(nums) if nums else None
 
 def get_height(fields):
