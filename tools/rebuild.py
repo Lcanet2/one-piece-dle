@@ -28,7 +28,7 @@ CAMPS=[
  ("marine","Marine"),
  ("gouvernement mondial","Gouvernement"),("impel down","Gouvernement"),("dragon céleste","Gouvernement"),
  ("tribunal","Gouvernement"),("g-","Marine"),
- ("kozuki","Samourai"),("pays des wa","Samourai"),("pays de wa","Samourai"),("samouraï","Samourai"),
+ ("kozuki","Samourai"),("fourreaux rouges","Samourai"),("pays des wa","Samourai"),("pays de wa","Samourai"),("samouraï","Samourai"),
  ("équipage","Pirate"),("pirate","Pirate"),("famille charlotte","Pirate"),("barbe blanche","Pirate"),
  ("barbe noire","Pirate"),("thriller bark","Pirate"),("kuja","Pirate"),("baroque works","Pirate"),
  ("cent bêtes","Pirate"),("don quijote","Pirate"),("big mom","Pirate"),("spade","Pirate"),

@@ -1,6 +1,6 @@
 ====================================================================================================
                                ONE PIECE DLE — LISTE DES PERSONNAGES                                
-                                 470 personnages · 151 affiliations                                 
+                                 470 personnages · 150 affiliations                                 
 ====================================================================================================
 
 Recensement complet des personnages canon de One Piece Encyclopédie (onepiece.fandom.com/fr).
@@ -829,13 +829,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Homme    · Aucun           · Haki : Armement + Observation
      Prime : ?                  Taille : 1,00 m     Origine : Inconnue                   1re app. : Wano
 
-── FAMILLE KOZUKI  (9) ─────────────────────────────────────────────────────────────────────────────
-  Kawamatsu                        🦛🍶
-     Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 2,71 m     Origine : Wano                       1re app. : Wano
-  Kin'emon                         🔥👘🦊
-     Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : ?                  Taille : 2,95 m     Origine : Wano                       1re app. : Punk Hazard
+── FAMILLE KOZUKI  (7) ─────────────────────────────────────────────────────────────────────────────
   Komachiyo                        
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Wano
@@ -857,11 +851,6 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Shinobu                          🥷🍑
      Femme    · Paramecia       · Haki : —
      Prime : ?                  Taille : 1,80 m     Origine : Wano                       1re app. : Wano
-
-── FAMILLE KUROZUMI  (1) ───────────────────────────────────────────────────────────────────────────
-  Kanjuro                          🖌️🎭
-     Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : ?                  Taille : 3,47 m     Origine : Wano                       1re app. : Dressrosa
 
 ── FAMILLE NEFERTARI  (1) ──────────────────────────────────────────────────────────────────────────
   Nefeltari Cobra                  👑🏜️
@@ -1393,6 +1382,32 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Femme    · Aucun           · Haki : —
      Prime : ?                  Taille : 11,87 m    Origine : Ile des Hommes-Poissons    1re app. : Ile des Hommes-Poissons
 
+── NEUF FOURREAUX ROUGES  (8) ──────────────────────────────────────────────────────────────────────
+  Ashura Doji                      🪓😈
+     Homme    · Aucun           · Haki : Armement + Observation
+     Prime : ?                  Taille : 5,44 m     Origine : Inconnue                   1re app. : Wano
+  Denjiro                          💰⚔️
+     Homme    · Aucun           · Haki : Armement + Observation
+     Prime : ?                  Taille : 3,06 m     Origine : Wano                       1re app. : Wano
+  Inuarashi                        🐶🌞
+     Homme    · Aucun           · Haki : Armement + Observation
+     Prime : ?                  Taille : 5,11 m     Origine : Grand Line                 1re app. : Zou
+  Kanjuro                          🖌️🎭
+     Homme    · Paramecia       · Haki : Armement + Observation
+     Prime : ?                  Taille : 3,47 m     Origine : Wano                       1re app. : Dressrosa
+  Kawamatsu                        🦛🍶
+     Homme    · Aucun           · Haki : Armement + Observation
+     Prime : ?                  Taille : 2,71 m     Origine : Wano                       1re app. : Wano
+  Kin'emon                         🔥👘🦊
+     Homme    · Paramecia       · Haki : Armement + Observation
+     Prime : ?                  Taille : 2,95 m     Origine : Wano                       1re app. : Punk Hazard
+  Nekomamushi                      🐱🌙
+     Homme    · Aucun           · Haki : Armement + Observation
+     Prime : ?                  Taille : 5,22 m     Origine : Grand Line                 1re app. : Zou
+  Raizo                            🥷📜
+     Homme    · Paramecia       · Haki : Armement + Observation
+     Prime : ?                  Taille : 3,11 m     Origine : Wano                       1re app. : Zou
+
 ── NOUVEL ÉQUIPAGE DES GÉANTS  (2) ─────────────────────────────────────────────────────────────────
   Goldberg                         
      Homme    · Aucun           · Haki : —
@@ -1434,19 +1449,13 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 1,72 m     Origine : Inconnue                   1re app. : Ville d'Orange
 
-── PAYS DES WA  (8) ────────────────────────────────────────────────────────────────────────────────
-  Denjiro                          💰⚔️
-     Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 3,06 m     Origine : Wano                       1re app. : Wano
+── PAYS DES WA  (6) ────────────────────────────────────────────────────────────────────────────────
   Fukurokuju                       
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 2,21 m     Origine : Wano                       1re app. : Wano
   Kurozumi Higurashi               
      Femme    · Paramecia       · Haki : —
      Prime : ?                  Taille : 1,93 m     Origine : Inconnue                   1re app. : Wano
-  Raizo                            🥷📜
-     Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : ?                  Taille : 3,11 m     Origine : Wano                       1re app. : Zou
   Shimotsuki Kozaburo              
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 2,21 m     Origine : Inconnue                   1re app. : Wano
@@ -1473,16 +1482,10 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Homme    · Aucun           · Haki : Armement + Observation
      Prime : 480 000 000 B      Taille : 6,80 m     Origine : Grand Line                 1re app. : Zou
 
-── PRINCIPAUTÉ DE MOKOMO  (5) ──────────────────────────────────────────────────────────────────────
-  Inuarashi                        🐶🌞
-     Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 5,11 m     Origine : Grand Line                 1re app. : Zou
+── PRINCIPAUTÉ DE MOKOMO  (3) ──────────────────────────────────────────────────────────────────────
   Miyagi                           
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Zou
-  Nekomamushi                      🐱🌙
-     Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 5,22 m     Origine : Grand Line                 1re app. : Zou
   Shishilian                       
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 1,96 m     Origine : Grand Line                 1re app. : Zou
@@ -1685,11 +1688,6 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Femme    · Aucun           · Haki : —
      Prime : ?                  Taille : 1,69 m     Origine : Inconnue                   1re app. : Village de Syrup
 
-── VOLEURS D'ATAMAYAMA  (1) ────────────────────────────────────────────────────────────────────────
-  Ashura Doji                      🪓😈
-     Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 5,44 m     Origine : Inconnue                   1re app. : Wano
-
 ── WATER SEVEN  (1) ────────────────────────────────────────────────────────────────────────────────
   Icebarg                          
      Homme    · Aucun           · Haki : —
@@ -1736,7 +1734,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Aokiji                             Équipage de Barbe Noire                                 ?
   Aphelandra                         Kujas                                                   ?
   Arlong                             Équipage d'Arlong                            20 000 000 B
-  Ashura Doji                        Voleurs d'Atamayama                                     ?
+  Ashura Doji                        Neuf Fourreaux Rouges                                   ?
   Atlas                              Gouvernement Mondial                                    ?
   Atmos                              L'Équipage de Barbe Blanche                             ?
   Avalo Pizarro                      Équipage de Barbe Noire                     100 000 000 B
@@ -1854,7 +1852,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Dellinger                          Équipage de Don Quijote                      15 000 000 B
   Demalo Black                       Faux Équipage du Chapeau de Paille           26 000 000 B
   Den                                Civil                                                   ?
-  Denjiro                            Pays des Wa                                             ?
+  Denjiro                            Neuf Fourreaux Rouges                                   ?
   Diamante                           Équipage de Don Quijote                      99 000 000 B
   Diesel                             Équipage de Big Mom                                     ?
   Doberman                           Marines                                                 ?
@@ -1929,7 +1927,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Igaram                             Alabasta                                                ?
   Im                                 Gouvernement Mondial                                    ?
   Inazuma                            Révolutionnaires                            100 000 000 B
-  Inuarashi                          Principauté de Mokomo                                   ?
+  Inuarashi                          Neuf Fourreaux Rouges                                   ?
   Ippon Matsu                        Loguetown                                               ?
   Izo                                L'Équipage de Barbe Blanche                 510 000 000 B
   Jabra                              CP-AIGIS0                                               ?
@@ -1951,16 +1949,16 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Kalgara                            Shandia                                                 ?
   Kalifa                             CP-AIGIS0                                               ?
   Kamakiri                           Shandia                                                 ?
-  Kanjuro                            Famille Kurozumi                                        ?
+  Kanjuro                            Neuf Fourreaux Rouges                                   ?
   Karasu                             Révolutionnaires                            400 000 000 B
   Karin                              École du Morse                                          ?
   Karoo                              Alabasta                                                ?
-  Kawamatsu                          Famille Kozuki                                          ?
+  Kawamatsu                          Neuf Fourreaux Rouges                                   ?
   Kaya                               Village de Sirop                                        ?
   Kelly Funk                         Colisée Corrida                              57 000 000 B
   Kikyo                              Amazon Lily                                             ?
   Killer                             Équipage de Kidd                            200 000 000 B
-  Kin'emon                           Famille Kozuki                                          ?
+  Kin'emon                           Neuf Fourreaux Rouges                                   ?
   King                               Équipage des cent bêtes                   1 390 000 000 B
   King Baum                          Forêt de la Tentation                                   ?
   Kizaru                             Marines                                   3 000 000 000 B
@@ -2031,7 +2029,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Nefeltari Cobra                    Famille Nefertari                                       ?
   Nefeltari Vivi                     Alabasta                                                ?
   Nefertari D. Lillie                Alabasta                                                ?
-  Nekomamushi                        Principauté de Mokomo                                   ?
+  Nekomamushi                        Neuf Fourreaux Rouges                                   ?
   Neptune                            royaume Ryugu                                           ?
   Nero                               CP9                                                     ?
   Nezumi                             Marines                                                 ?
@@ -2066,7 +2064,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
   Pound                              Famille Charlotte                                       ?
   Pythagoras                         Gouvernement Mondial                                    ?
   Queen                              Équipage des cent bêtes                   1 320 000 000 B
-  Raizo                              Pays des Wa                                             ?
+  Raizo                              Neuf Fourreaux Rouges                                   ?
   Rebecca                            Colisée Corrida                                         ?
   Richie                             L'Équipage du Clown                                     ?
   Riku                               Dressrosa                                               ?
@@ -2356,10 +2354,10 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 
   Camp :
      Pirate                            212  ██████████████████████████████████████████████████████████████████████████████████████████████████████████
-     Civil                             169  ████████████████████████████████████████████████████████████████████████████████████
+     Civil                             165  ██████████████████████████████████████████████████████████████████████████████████
      Marine                             30  ███████████████
      Gouvernement                       30  ███████████████
-     Samourai                           19  ██████████
+     Samourai                           23  ████████████
      Revolutionnaire                    10  █████
 
   Fruit du Démon :
