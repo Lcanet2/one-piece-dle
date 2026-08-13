@@ -5,3 +5,7 @@ Images_One_Piece/
 # Divers
 .DS_Store
 *.swp
+
+# Python
+__pycache__/
+*.pyc
