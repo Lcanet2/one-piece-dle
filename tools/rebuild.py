@@ -15,12 +15,12 @@ HAKI=collections.defaultdict(str)
 for k in "AOR":
     for t in cats[k]: HAKI[t]+=k
 
-SAGAS=["East Blue","Alabasta","Skypiea","Water 7","Thriller Bark","Guerre au Sommet",
-       "Ile des Hommes-Poissons","Dressrosa","Whole Cake Island","Wano","Egghead","Elbaf"]
-BORNES=[(100,0),(217,1),(302,2),(441,3),(489,4),(597,5),(653,6),(801,7),(902,8),(1057,9),(1124,10),(99999,11)]
-def saga(c):
-    for lim,i in BORNES:
-        if c<=lim: return SAGAS[i]
+# Arc de première apparition, déduit du numéro de chapitre (tools/arcs.py).
+# Granularité arc et non saga : Sabaody appartient à la saga de la Guerre au
+# Sommet, mais afficher « Sabaody » est bien plus parlant.
+sys.path.insert(0, ROOT+'tools')
+from arcs import arc, NOMS as ARCS
+
 CAMPS=[
  # ordre important : le plus spécifique d'abord
  ("cipher pol","Gouvernement"),("cp-","Gouvernement"),("cp0","Gouvernement"),("aigis","Gouvernement"),
@@ -87,6 +87,24 @@ def lien1(v):
         if not _ignorer(x): return x[:42]
     return ls[0][:42]
 
+IGNORE_APP = re.compile(r'mentionn|silhouette|couverture|hors-série|cameo', re.I)
+
+def premier_chapitre(f):
+    """Premier chapitre où le personnage apparaît vraiment.
+    Le wiki liste aussi les mentions et silhouettes : on les saute quand
+    elles sont annotées, sinon Hancock débuterait à Thriller Bark (« mentionnée »)
+    au lieu d'Amazon Lily. Le chapitre 0 (one-shot prequel) est ignoré."""
+    p = f.get("première", "")
+    segments = re.split(r'<br\s*/?>|\n', p)
+    nums = []
+    for seg in segments:
+        if IGNORE_APP.search(seg): continue
+        nums += [int(n) for n in re.findall(r'\[\[Chapitre (\d+)', seg)]
+    nums = [n for n in nums if n > 0]
+    if not nums:   # repli : tout chapitre cité, annotations comprises
+        nums = [int(n) for n in re.findall(r'\[\[Chapitre (\d+)', p) if int(n) > 0]
+    return min(nums) if nums else None
+
 def chapitre(wt):
     """Numéro du chapitre de première apparition, ou None si le personnage
     n'apparaît pas dans le manga (film, épisode filler, roman, spin-off)."""
@@ -96,12 +114,12 @@ def chapitre(wt):
 
 def rang(nom, titre, wt):
     f=wiki.parse_fields(wt)
-    ch=re.search(r'\[\[Chapitre (\d+)',f.get("première",""))
+    ch=premier_chapitre(f)
     p=prime(f); h=wiki.get_height(f)
     return [nom, GENRE.get(titre,"?"), lien1(f.get("affiliation","")) or "Sans affiliation",
             camp(lien1(f.get("affiliation","")) or wiki.strip_wiki(f.get("occupation",""))),
             fruit(f), HAKI.get(titre,""), p if p is not None else -1, h if h is not None else -1,
-            origine(f), saga(int(ch.group(1))) if ch else "Inconnue"]
+            origine(f), arc(ch) if ch else "Inconnue"]
 
 # --- notoriété -------------------------------------------------------------
 # Le wiki recense jusqu'aux figurants d'une case. La longueur de la fiche est
@@ -161,7 +179,7 @@ rows.sort(key=lambda r: r[0].lower())
 json.dump(rows, open('rows.json','w'), ensure_ascii=False)
 print(f"total : {len(rows)}  (238 curés + {len(rows)-238} du wiki)")
 for lbl,i,f in [("prime",6,lambda v:v>0),("taille",7,lambda v:v>0),("origine",8,lambda v:v!="Inconnue"),
-                ("saga",9,lambda v:v!="Inconnue")]:
+                ("arc",9,lambda v:v!="Inconnue")]:
     print(f"  {lbl:8} connue : {sum(1 for r in rows if f(r[i])):>5}")
 print(f"  haki     connu  : {sum(1 for r in rows if r[5]):>5}")
 print(f"  fruit           : {sum(1 for r in rows if r[4]!='Aucun'):>5}")

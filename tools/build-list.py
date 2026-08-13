@@ -6,7 +6,7 @@ import json, collections, unicodedata, os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 lines = [l for l in open(os.path.join(ROOT, 'js/characters.js'), encoding='utf-8') if l.startswith('["')]
 rows  = [json.loads(l.rstrip().rstrip(',')) for l in lines]
-F = ["nom","genre","equipage","camp","fruit","haki","prime","taille","origine","saga"]
+F = ["nom","genre","equipage","camp","fruit","haki","prime","taille","origine","arc"]
 chars = [dict(zip(F, r)) for r in rows]
 
 # les indices emoji sont dans js/emoji.js
@@ -61,7 +61,7 @@ for equipage in sorted(groups, key=sortkey):
         out.append(f"  {c['nom']:<32} {c['emoji']}")
         out.append(f"     {GENRE[c['genre']]:<8} · {c['fruit']:<15} · Haki : {fmt_haki(c['haki'])}")
         out.append(f"     Prime : {fmt_prime(c['prime']):<18} Taille : {fmt_taille(c['taille']):<10} "
-                   f"Origine : {c['origine']:<26} 1re app. : {c['saga']}")
+                   f"Origine : {c['origine']:<26} 1re app. : {c['arc']}")
 
 out.append("")
 out.append("#" * W)
@@ -85,7 +85,7 @@ out.append("#" * W)
 out.append("  4. RÉPARTITIONS")
 out.append("#" * W)
 for champ, label in [("camp","Camp"), ("fruit","Fruit du Démon"),
-                     ("origine","Origine"), ("saga","Première apparition")]:
+                     ("origine","Origine"), ("arc","Première apparition")]:
     out.append("")
     out.append(f"  {label} :")
     for val, n in collections.Counter(c[champ] for c in chars).most_common():

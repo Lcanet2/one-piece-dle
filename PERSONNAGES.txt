@@ -14,13 +14,13 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── ALABASTA  (5) ───────────────────────────────────────────────────────────────────────────────────
   Karoo                            🦆👑
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,50 m     Origine : Inconnue                   1re app. : Alabasta
+     Prime : ?                  Taille : 1,50 m     Origine : Inconnue                   1re app. : Whisky Peak
   Koza                             
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 1,77 m     Origine : Inconnue                   1re app. : Alabasta
   Nefeltari Vivi                   👸🦆💙
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,69 m     Origine : Inconnue                   1re app. : Alabasta
+     Prime : ?                  Taille : 1,69 m     Origine : Inconnue                   1re app. : Reverse Mountain
   Nefertari D. Lillie              
      Femme    · Aucun           · Haki : —
      Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Egghead
@@ -31,12 +31,12 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── ALLIANCE BAGGY ET ALVIDA  (1) ───────────────────────────────────────────────────────────────────
   Alvida                           🔨💅
      Femme    · Paramecia       · Haki : —
-     Prime : 5 000 000 B        Taille : 1,98 m     Origine : East Blue                  1re app. : East Blue
+     Prime : 5 000 000 B        Taille : 1,98 m     Origine : East Blue                  1re app. : Romance Dawn
 
 ── ALLIANCE BAGGY ET ALVIDA/LES PIRATES D'EXP  (1) ─────────────────────────────────────────────────
   Galdino                          🕯️3️⃣
      Homme    · Paramecia       · Haki : —
-     Prime : 24 000 000 B       Taille : 1,79 m     Origine : South Blue                 1re app. : Alabasta
+     Prime : 24 000 000 B       Taille : 1,79 m     Origine : South Blue                 1re app. : Little Garden
 
 ── ALLIANCE DES NINJAS-PIRATES-MINKS-SAMOURAÏ  (1) ─────────────────────────────────────────────────
   Yamato                           🐺⛓️📖
@@ -46,38 +46,38 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── AMAZON LILY  (1) ────────────────────────────────────────────────────────────────────────────────
   Kikyo                            
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Calm Belt                  1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : Calm Belt                  1re app. : Amazon Lily
 
 ── ARCHÉOLOGUE  (1) ────────────────────────────────────────────────────────────────────────────────
   Claw D. Clover                   
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,72 m     Origine : West Blue                  1re app. : Water 7
+     Prime : ?                  Taille : 1,72 m     Origine : West Blue                  1re app. : Enies Lobby
 
 ── ARCHIPEL DE BOING  (1) ──────────────────────────────────────────────────────────────────────────
   Héraclès                         
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,14 m     Origine : South Blue                 1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 2,14 m     Origine : South Blue                 1re app. : Amazon Lily
 
 ── ARMADA DE DON KRIEG  (3) ────────────────────────────────────────────────────────────────────────
   Don Krieg                        💣🛡️
      Homme    · Aucun           · Haki : —
-     Prime : 17 000 000 B       Taille : 2,43 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : 17 000 000 B       Taille : 2,43 m     Origine : Inconnue                   1re app. : Baratie
   Gin                              🍚🔨
      Homme    · Aucun           · Haki : —
-     Prime : 12 000 000 B       Taille : 1,86 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : 12 000 000 B       Taille : 1,86 m     Origine : Inconnue                   1re app. : Baratie
   Pearl                            
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,39 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : 2,39 m     Origine : Inconnue                   1re app. : Baratie
 
 ── ARMÉE DE LA LIBERTÉ  (1) ────────────────────────────────────────────────────────────────────────
   Monkey D. Dragon                 🌪️🔥👤
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,56 m     Origine : East Blue                  1re app. : East Blue
+     Prime : ?                  Taille : 2,56 m     Origine : East Blue                  1re app. : Loguetown
 
 ── ARMÉE RÉVOLUTIONNAIRE  (4) ──────────────────────────────────────────────────────────────────────
   Emporio Ivankov                  💜💉👑
      Inconnu  · Paramecia       · Haki : —
-     Prime : 100 000 000 B      Taille : 4,49 m     Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : 100 000 000 B      Taille : 4,49 m     Origine : Grand Line                 1re app. : Impel Down
   Ginney                           
      Femme    · Aucun           · Haki : —
      Prime : 190 000 000 B      Taille : 1,74 m     Origine : Inconnue                   1re app. : Egghead
@@ -86,20 +86,20 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 2,80 m     Origine : Ile des Hommes-Poissons    1re app. : Dressrosa
   Sabo                             🎩🔥🪈
      Homme    · Logia           · Haki : Armement + Observation
-     Prime : 602 000 000 B      Taille : 1,87 m     Origine : East Blue                  1re app. : Guerre au Sommet
+     Prime : 602 000 000 B      Taille : 1,87 m     Origine : East Blue                  1re app. : Après-guerre
 
 ── BANDITS#BANDITS DES MONTAGNES  (1) ──────────────────────────────────────────────────────────────
   Curly Dadan                      💇🏔️
      Femme    · Aucun           · Haki : —
-     Prime : 7 800 000 B        Taille : 2,21 m     Origine : East Blue                  1re app. : Guerre au Sommet
+     Prime : 7 800 000 B        Taille : 2,21 m     Origine : East Blue                  1re app. : Après-guerre
 
 ── BARATIE  (2) ────────────────────────────────────────────────────────────────────────────────────
   Patty                            
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,04 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : 2,04 m     Origine : Inconnue                   1re app. : Baratie
   Zeff                             🦵🍳👨‍🍳
      Homme    · Aucun           · Haki : —
-     Prime : 60 000 000 B       Taille : 1,89 m     Origine : East Blue                  1re app. : East Blue
+     Prime : 60 000 000 B       Taille : 1,89 m     Origine : East Blue                  1re app. : Baratie
 
 ── BAROQUE WORKS  (8) ──────────────────────────────────────────────────────────────────────────────
   Daz Bones                        🔪1️⃣
@@ -113,19 +113,19 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : 35 000 000 B       Taille : 1,87 m     Origine : Grand Line                 1re app. : Alabasta
   Miss Goldenweek                  🎨🍡
      Femme    · Aucun           · Haki : —
-     Prime : 29 000 000 B       Taille : 1,45 m     Origine : North Blue                 1re app. : Alabasta
+     Prime : 29 000 000 B       Taille : 1,45 m     Origine : North Blue                 1re app. : Little Garden
   Miss Monday                      
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Grand Line                 1re app. : Alabasta
+     Prime : ?                  Taille : ?          Origine : Grand Line                 1re app. : Whisky Peak
   Miss Valentine                   ☂️⚖️
      Femme    · Paramecia       · Haki : —
-     Prime : 7 500 000 B        Taille : 1,77 m     Origine : West Blue                  1re app. : Alabasta
+     Prime : 7 500 000 B        Taille : 1,77 m     Origine : West Blue                  1re app. : Whisky Peak
   Mr 9                             
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Grand Line                 1re app. : Alabasta
+     Prime : ?                  Taille : ?          Origine : Grand Line                 1re app. : Reverse Mountain
   Mr. 5                            💥👃
      Homme    · Paramecia       · Haki : —
-     Prime : 10 000 000 B       Taille : 1,97 m     Origine : South Blue                 1re app. : Alabasta
+     Prime : 10 000 000 B       Taille : 1,97 m     Origine : South Blue                 1re app. : Whisky Peak
 
 ── CAFÉ POTIRON  (1) ───────────────────────────────────────────────────────────────────────────────
   Conis                            🎺🦊
@@ -135,21 +135,21 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── CÉSAR CLOWN  (4) ────────────────────────────────────────────────────────────────────────────────
   Barbe Brune                      
      Homme    · Aucun           · Haki : —
-     Prime : 80 060 000 B       Taille : 6,91 m     Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : 80 060 000 B       Taille : 6,91 m     Origine : Grand Line                 1re app. : Après-guerre
   Monet                            ❄️🦅
      Femme    · Logia           · Haki : —
-     Prime : ?                  Taille : 2,27 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : ?                  Taille : 2,27 m     Origine : North Blue                 1re app. : Punk Hazard
   Smiley                           
      Homme    · Zoan            · Haki : —
-     Prime : ?                  Taille : 150,00 m   Origine : Inconnue                   1re app. : Dressrosa
+     Prime : ?                  Taille : 150,00 m   Origine : Inconnue                   1re app. : Punk Hazard
   Yeti Cool Brothers               
      Homme    · Aucun           · Haki : —
-     Prime : 20 000 000 B       Taille : 42,50 m    Origine : Grand Line                 1re app. : Dressrosa
+     Prime : 20 000 000 B       Taille : 42,50 m    Origine : Grand Line                 1re app. : Punk Hazard
 
 ── CHEVALIERS DIVINS  (6) ──────────────────────────────────────────────────────────────────────────
   Saint Figarland Shamrock         
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : West Blue                  1re app. : Wano
+     Prime : ?                  Taille : ?          Origine : West Blue                  1re app. : Reverie
   Saint Limoshiv Killingham        
      Homme    · Zoan Mythique   · Haki : —
      Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Elbaf
@@ -161,7 +161,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Elbaf
   Sainte Manmayer Gunko            
      Femme    · Paramecia       · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Wano
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Elbaf
   Sainte Satchels Maffey           
      Femme    · Aucun           · Haki : —
      Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Elbaf
@@ -169,24 +169,24 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── CINQ DOYENS  (4) ────────────────────────────────────────────────────────────────────────────────
   Saint Ethanbaron V. Nusjuro      🐎⚔️
      Homme    · Zoan Mythique   · Haki : Armement
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Skypiea
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Jaya
   Saint Figarland Garling          
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Egghead
   Saint Marcus Mars                🦅👹
      Homme    · Zoan Mythique   · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Skypiea
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Jaya
   Saint Shepherd Ju Peter          🪱🌍
      Homme    · Zoan Mythique   · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Skypiea
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Jaya
 
 ── CINQ DOYENS  (2) ────────────────────────────────────────────────────────────────────────────────
   Saint Jaygarcia Saturn           🕷️🐄
      Homme    · Zoan Mythique   · Haki : Rois
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Skypiea
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Jaya
   Saint Topman Warcury             🐗⚖️
      Homme    · Zoan Mythique   · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Skypiea
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Jaya
 
 ── CIVIL  (1) ──────────────────────────────────────────────────────────────────────────────────────
   Den                              🐟🔨
@@ -227,7 +227,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 2,58 m     Origine : North Blue                 1re app. : Water 7
   Fukurou                          🦉🤐
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 3,31 m     Origine : Grand Line                 1re app. : Water 7
+     Prime : ?                  Taille : 3,31 m     Origine : Grand Line                 1re app. : Enies Lobby
   Guernica                         👊🕶️
      Homme    · Aucun           · Haki : Armement + Observation
      Prime : ?                  Taille : 2,43 m     Origine : Inconnue                   1re app. : Dressrosa
@@ -236,7 +236,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 25 cm      Origine : Inconnue                   1re app. : Water 7
   Jabra                            🐺🕶️
      Homme    · Zoan            · Haki : Armement + Observation
-     Prime : ?                  Taille : 2,12 m     Origine : North Blue                 1re app. : Water 7
+     Prime : ?                  Taille : 2,12 m     Origine : North Blue                 1re app. : Enies Lobby
   Kaku                             🦒👃
      Homme    · Zoan            · Haki : Armement + Observation
      Prime : ?                  Taille : 1,93 m     Origine : East Blue                  1re app. : Water 7
@@ -245,7 +245,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 1,85 m     Origine : Grand Line                 1re app. : Water 7
   Kumadori                         🎭💇
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 3,18 m     Origine : South Blue                 1re app. : Water 7
+     Prime : ?                  Taille : 3,18 m     Origine : South Blue                 1re app. : Enies Lobby
   Rob Lucci                        🐆🕊️🎩
      Homme    · Zoan            · Haki : Armement + Observation
      Prime : ?                  Taille : 2,12 m     Origine : Grand Line                 1re app. : Water 7
@@ -267,18 +267,18 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 2,02 m     Origine : West Blue                  1re app. : Water 7
   Spandine                         
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,75 m     Origine : Grand Line                 1re app. : Water 7
+     Prime : ?                  Taille : 2,75 m     Origine : Grand Line                 1re app. : Enies Lobby
 
 ── CROSS GUILD  (3) ────────────────────────────────────────────────────────────────────────────────
   Buggy                            🤡🔪🎪
      Homme    · Paramecia       · Haki : —
-     Prime : 3 189 000 000 B    Taille : 1,92 m     Origine : Grand Line                 1re app. : East Blue
+     Prime : 3 189 000 000 B    Taille : 1,92 m     Origine : Grand Line                 1re app. : Ville d'Orange
   Crocodile                        🐊🪝🚬
      Homme    · Logia           · Haki : Armement + Observation
-     Prime : 1 965 000 000 B    Taille : 2,53 m     Origine : Grand Line                 1re app. : Alabasta
+     Prime : 1 965 000 000 B    Taille : 2,53 m     Origine : Grand Line                 1re app. : Little Garden
   Dracule Mihawk                   🦅⚔️🍷
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : 3 590 000 000 B    Taille : 1,98 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : 3 590 000 000 B    Taille : 1,98 m     Origine : Inconnue                   1re app. : Baratie
 
 ── DRACULE MIHAWK  (1) ─────────────────────────────────────────────────────────────────────────────
   Perona                           
@@ -307,18 +307,18 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── EDWARD WEEBLE  (1) ──────────────────────────────────────────────────────────────────────────────
   Buckingham Stussy                
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 76 cm      Origine : Grand Line                 1re app. : Whole Cake Island
+     Prime : ?                  Taille : 76 cm      Origine : Grand Line                 1re app. : Zou
 
 ── ÉQUIPAGE D'ARLONG  (3) ──────────────────────────────────────────────────────────────────────────
   Arlong                           🦈👃
      Homme    · Aucun           · Haki : —
-     Prime : 20 000 000 B       Taille : 2,63 m     Origine : Ile des Hommes-Poissons    1re app. : East Blue
+     Prime : 20 000 000 B       Taille : 2,63 m     Origine : Ile des Hommes-Poissons    1re app. : Arlong Park
   Chew                             🐡💦
      Homme    · Aucun           · Haki : —
-     Prime : 5 500 000 B        Taille : 2,57 m     Origine : Ile des Hommes-Poissons    1re app. : East Blue
+     Prime : 5 500 000 B        Taille : 2,57 m     Origine : Ile des Hommes-Poissons    1re app. : Arlong Park
   Kuroobi                          🐟🥋
      Homme    · Aucun           · Haki : —
-     Prime : 9 000 000 B        Taille : 2,52 m     Origine : Ile des Hommes-Poissons    1re app. : East Blue
+     Prime : 9 000 000 B        Taille : 2,52 m     Origine : Ile des Hommes-Poissons    1re app. : Arlong Park
 
 ── ÉQUIPAGE D'IDEO  (3) ────────────────────────────────────────────────────────────────────────────
   Abdullah et Jeet                 
@@ -334,52 +334,52 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── ÉQUIPAGE DE BARBE BLANCHE  (4) ──────────────────────────────────────────────────────────────────
   Atmos                            
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : West Blue                  1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : West Blue                  1re app. : Marineford
   Marco                            🔵🐦‍🔥🩺
      Homme    · Zoan Mythique   · Haki : Armement + Observation
-     Prime : 1 374 000 000 B    Taille : 2,03 m     Origine : Grand Line                 1re app. : Skypiea
+     Prime : 1 374 000 000 B    Taille : 2,03 m     Origine : Grand Line                 1re app. : Jaya
   Portgas D. Ace                   🔥🎩🃏
      Homme    · Logia           · Haki : Armement + Observation + Rois
-     Prime : 550 000 000 B      Taille : 1,85 m     Origine : South Blue                 1re app. : Alabasta
+     Prime : 550 000 000 B      Taille : 1,85 m     Origine : South Blue                 1re app. : Drum
   Vista                            🌹⚔️
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 3,28 m     Origine : North Blue                 1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 3,28 m     Origine : North Blue                 1re app. : Marineford
 
 ── ÉQUIPAGE DE BARBE BLANCHE  (1) ──────────────────────────────────────────────────────────────────
   Little Oars Jr.                  
      Homme    · Aucun           · Haki : —
-     Prime : 550 000 000 B      Taille : 60,00 m    Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : 550 000 000 B      Taille : 60,00 m    Origine : Grand Line                 1re app. : Marineford
 
 ── ÉQUIPAGE DE BARBE NOIRE  (7) ────────────────────────────────────────────────────────────────────
   Aokiji                           ❄️😴🚲
      Homme    · Logia           · Haki : Armement + Observation
-     Prime : ?                  Taille : 2,98 m     Origine : South Blue                 1re app. : Water 7
+     Prime : ?                  Taille : 2,98 m     Origine : South Blue                 1re app. : Long Ring Long Land
   Avalo Pizarro                    🏝️👑
      Homme    · Paramecia       · Haki : —
-     Prime : 100 000 000 B      Taille : 5,05 m     Origine : North Blue                 1re app. : Guerre au Sommet
+     Prime : 100 000 000 B      Taille : 5,05 m     Origine : North Blue                 1re app. : Marineford
   Catarina Devon                   🦊🌙
      Femme    · Zoan Mythique   · Haki : —
-     Prime : 100 000 000 B      Taille : 3,61 m     Origine : South Blue                 1re app. : Guerre au Sommet
+     Prime : 100 000 000 B      Taille : 3,61 m     Origine : South Blue                 1re app. : Marineford
   Jesus Burgess                    🤼💪
      Homme    · Paramecia       · Haki : Armement
-     Prime : 20 000 000 B       Taille : 3,55 m     Origine : Grand Line                 1re app. : Skypiea
+     Prime : 20 000 000 B       Taille : 3,55 m     Origine : Grand Line                 1re app. : Jaya
   Sanjuan Wolf                     🚢🧌
      Homme    · Paramecia       · Haki : —
-     Prime : 100 000 000 B      Taille : 180,00 m   Origine : West Blue                  1re app. : Guerre au Sommet
+     Prime : 100 000 000 B      Taille : 180,00 m   Origine : West Blue                  1re app. : Marineford
   Van Augur                        🔭🔫
      Homme    · Paramecia       · Haki : —
-     Prime : 64 000 000 B       Taille : 3,40 m     Origine : East Blue                  1re app. : Skypiea
+     Prime : 64 000 000 B       Taille : 3,40 m     Origine : East Blue                  1re app. : Jaya
   Vasco Shot                       🍶🥴
      Homme    · Paramecia       · Haki : —
-     Prime : 100 000 000 B      Taille : 5,73 m     Origine : South Blue                 1re app. : Guerre au Sommet
+     Prime : 100 000 000 B      Taille : 5,73 m     Origine : South Blue                 1re app. : Marineford
 
 ── ÉQUIPAGE DE BELLAMY  (2) ────────────────────────────────────────────────────────────────────────
   Bellamy                          🌀😈
      Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : 195 000 000 B      Taille : 2,40 m     Origine : North Blue                 1re app. : Skypiea
+     Prime : 195 000 000 B      Taille : 2,40 m     Origine : North Blue                 1re app. : Jaya
   Sarquiss                         
      Homme    · Aucun           · Haki : —
-     Prime : 38 000 000 B       Taille : 2,28 m     Origine : Inconnue                   1re app. : Skypiea
+     Prime : 38 000 000 B       Taille : 2,28 m     Origine : Inconnue                   1re app. : Jaya
 
 ── ÉQUIPAGE DE BIG MOM  (13) ───────────────────────────────────────────────────────────────────────
   Charlotte Amande                 
@@ -425,15 +425,15 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── ÉQUIPAGE DE CARIBOU  (1) ────────────────────────────────────────────────────────────────────────
   Caribou                          🌾😇
      Homme    · Logia           · Haki : —
-     Prime : 210 000 000 B      Taille : 2,28 m     Origine : North Blue                 1re app. : Ile des Hommes-Poissons
+     Prime : 210 000 000 B      Taille : 2,28 m     Origine : North Blue                 1re app. : Retour à Sabaody
 
 ── ÉQUIPAGE DE DON QUIJOTE  (15) ───────────────────────────────────────────────────────────────────
   Baby 5                           🔫💍
      Femme    · Paramecia       · Haki : —
-     Prime : ?                  Taille : 1,81 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : ?                  Taille : 1,81 m     Origine : North Blue                 1re app. : Punk Hazard
   Buffalo                          🌀🏴‍☠️
      Homme    · Paramecia       · Haki : —
-     Prime : ?                  Taille : 6,96 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : ?                  Taille : 6,96 m     Origine : North Blue                 1re app. : Punk Hazard
   Dellinger                        🦈👠
      Homme    · Aucun           · Haki : —
      Prime : 15 000 000 B       Taille : ?          Origine : North Blue                 1re app. : Dressrosa
@@ -445,31 +445,31 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 2,93 m     Origine : Inconnue                   1re app. : Dressrosa
   Donquixote Doflamingo            🧵🕶️🦩
      Homme    · Paramecia       · Haki : Armement + Observation + Rois
-     Prime : 340 000 000 B      Taille : 3,05 m     Origine : Inconnue                   1re app. : Skypiea
+     Prime : 340 000 000 B      Taille : 3,05 m     Origine : Inconnue                   1re app. : Jaya
   Gladius                          💥🎈
      Homme    · Paramecia       · Haki : —
-     Prime : 31 000 000 B       Taille : 2,60 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : 31 000 000 B       Taille : 2,60 m     Origine : North Blue                 1re app. : Punk Hazard
   Jora                             🎨👵
      Femme    · Paramecia       · Haki : —
-     Prime : ?                  Taille : 2,21 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : ?                  Taille : 2,21 m     Origine : North Blue                 1re app. : Punk Hazard
   Lao G                            
      Homme    · Aucun           · Haki : —
-     Prime : 61 000 000 B       Taille : 1,57 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : 61 000 000 B       Taille : 1,57 m     Origine : North Blue                 1re app. : Punk Hazard
   Machvise                         
      Homme    · Paramecia       · Haki : —
-     Prime : 11 000 000 B       Taille : 4,40 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : 11 000 000 B       Taille : 4,40 m     Origine : North Blue                 1re app. : Punk Hazard
   Pica                             🗿🎤
      Homme    · Paramecia       · Haki : Armement + Observation
      Prime : 99 000 000 B       Taille : 4,70 m     Origine : North Blue                 1re app. : Dressrosa
   Sugar                            🧸🍇
      Femme    · Paramecia       · Haki : —
-     Prime : ?                  Taille : 1,10 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : ?                  Taille : 1,10 m     Origine : North Blue                 1re app. : Punk Hazard
   Trebol                           🤧🟢
      Homme    · Paramecia       · Haki : Armement + Observation
      Prime : 99 000 000 B       Taille : 3,49 m     Origine : North Blue                 1re app. : Dressrosa
   Vergo                            🎋🕶️
      Homme    · Aucun           · Haki : Armement
-     Prime : ?                  Taille : 2,47 m     Origine : North Blue                 1re app. : Dressrosa
+     Prime : ?                  Taille : 2,47 m     Origine : North Blue                 1re app. : Punk Hazard
   Viola                            👁️💃
      Femme    · Paramecia       · Haki : —
      Prime : ?                  Taille : 1,78 m     Origine : Inconnue                   1re app. : Dressrosa
@@ -477,20 +477,20 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── ÉQUIPAGE DE HAWKINS  (1) ────────────────────────────────────────────────────────────────────────
   Basil Hawkins                    🃏🪆
      Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : 320 000 000 B      Taille : 2,10 m     Origine : North Blue                 1re app. : Guerre au Sommet
+     Prime : 320 000 000 B      Taille : 2,10 m     Origine : North Blue                 1re app. : Sabaody
 
 ── ÉQUIPAGE DE KIDD  (2) ───────────────────────────────────────────────────────────────────────────
   Heat                             
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : South Blue                 1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : South Blue                 1re app. : Sabaody
   Killer                           🔪🎭
      Homme    · Aucun           · Haki : Armement
-     Prime : 200 000 000 B      Taille : 1,95 m     Origine : South Blue                 1re app. : Guerre au Sommet
+     Prime : 200 000 000 B      Taille : 1,95 m     Origine : South Blue                 1re app. : Sabaody
 
 ── ÉQUIPAGE DE PANDAMAN; PANDA FAMILY  (1) ─────────────────────────────────────────────────────────
   Pandaman                         
      Homme    · Aucun           · Haki : —
-     Prime : 3 333 333 B        Taille : 2,00 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : 3 333 333 B        Taille : 2,00 m     Origine : Inconnue                   1re app. : Baratie
 
 ── ÉQUIPAGE DE ROCKS  (1) ──────────────────────────────────────────────────────────────────────────
   Rocks D. Xebec                   
@@ -538,7 +538,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── ÉQUIPAGE DES GÉANTS  (1) ────────────────────────────────────────────────────────────────────────
   Brogy                            🧌🪓
      Homme    · Aucun           · Haki : —
-     Prime : 1 800 000 000 B    Taille : 21,30 m    Origine : Elbaf                      1re app. : Alabasta
+     Prime : 1 800 000 000 B    Taille : 21,30 m    Origine : Elbaf                      1re app. : Little Garden
 
 ── ÉQUIPAGE DES JOLIS PIRATES  (2) ─────────────────────────────────────────────────────────────────
   Cavendish                        🌹🐴⚔️
@@ -551,15 +551,15 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── ÉQUIPAGE DES MOINES DÉPRAVÉS  (1) ───────────────────────────────────────────────────────────────
   Urouge                           🙏💪
      Homme    · Paramecia       · Haki : —
-     Prime : 108 000 000 B      Taille : 3,88 m     Origine : Ciel                       1re app. : Guerre au Sommet
+     Prime : 108 000 000 B      Taille : 3,88 m     Origine : Ciel                       1re app. : Sabaody
 
 ── ÉQUIPAGE DES PIRATES DE ROGER  (2) ──────────────────────────────────────────────────────────────
   Gol D. Roger                     👑🏴‍☠️💎
      Homme    · Aucun           · Haki : Armement + Observation + Rois
-     Prime : 5 564 800 000 B    Taille : 2,74 m     Origine : East Blue                  1re app. : East Blue
+     Prime : 5 564 800 000 B    Taille : 2,74 m     Origine : East Blue                  1re app. : Romance Dawn
   Silvers Rayleigh                 🕶️🍺⚔️
      Homme    · Aucun           · Haki : Armement + Observation + Rois
-     Prime : ?                  Taille : 1,88 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : 1,88 m     Origine : Inconnue                   1re app. : Ville d'Orange
 
 ── ÉQUIPAGE DES PIRATES DU SOLEIL  (2) ─────────────────────────────────────────────────────────────
   Aladdin                          
@@ -577,12 +577,12 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── ÉQUIPAGE DU BLIKING  (1) ────────────────────────────────────────────────────────────────────────
   Kuromarimo                       
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,86 m     Origine : Inconnue                   1re app. : Alabasta
+     Prime : ?                  Taille : 1,86 m     Origine : Inconnue                   1re app. : Drum
 
 ── ÉQUIPAGE DU CAPITAINE USOPP  (1) ────────────────────────────────────────────────────────────────
   Oignon                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,24 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : 1,24 m     Origine : Inconnue                   1re app. : Village de Syrup
 
 ── ÉQUIPAGE DU CHAPEAU DE PAILLE  (10) ─────────────────────────────────────────────────────────────
   Brook                            💀🎻🎩
@@ -593,71 +593,71 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : 394 000 000 B      Taille : 2,40 m     Origine : South Blue                 1re app. : Water 7
   Jinbe                            🦈🥋🌊
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : 1 100 000 000 B    Taille : 3,01 m     Origine : Ile des Hommes-Poissons    1re app. : Guerre au Sommet
+     Prime : 1 100 000 000 B    Taille : 3,01 m     Origine : Ile des Hommes-Poissons    1re app. : Impel Down
   Monkey D. Luffy                  👒🥩🖐️
      Homme    · Zoan Mythique   · Haki : Armement + Observation + Rois
-     Prime : 3 000 000 000 B    Taille : 1,74 m     Origine : East Blue                  1re app. : East Blue
+     Prime : 3 000 000 000 B    Taille : 1,74 m     Origine : East Blue                  1re app. : Romance Dawn
   Nami                             🍊🗺️⛈️
      Femme    · Aucun           · Haki : —
-     Prime : 366 000 000 B      Taille : 1,70 m     Origine : East Blue                  1re app. : East Blue
+     Prime : 366 000 000 B      Taille : 1,70 m     Origine : East Blue                  1re app. : Ville d'Orange
   Nico Robin                       🌸🖐️📜
      Femme    · Paramecia       · Haki : —
-     Prime : 930 000 000 B      Taille : 1,88 m     Origine : West Blue                  1re app. : Alabasta
+     Prime : 930 000 000 B      Taille : 1,88 m     Origine : West Blue                  1re app. : Whisky Peak
   Roronoa Zoro                     ⚔️🗺️🍶
      Homme    · Aucun           · Haki : Armement + Observation + Rois
-     Prime : 1 111 000 000 B    Taille : 1,81 m     Origine : East Blue                  1re app. : East Blue
+     Prime : 1 111 000 000 B    Taille : 1,81 m     Origine : East Blue                  1re app. : Romance Dawn
   Sanji                            🦵🚬🍳
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : 1 032 000 000 B    Taille : 1,80 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : 1 032 000 000 B    Taille : 1,80 m     Origine : Inconnue                   1re app. : Baratie
   Tony Tony Chopper                🦌🎩💊
      Homme    · Zoan            · Haki : —
-     Prime : 1 000 B            Taille : ?          Origine : Grand Line                 1re app. : Alabasta
+     Prime : 1 000 B            Taille : ?          Origine : Grand Line                 1re app. : Drum
   Usopp                            🤥🎯🌱
      Homme    · Aucun           · Haki : Observation
-     Prime : 500 000 000 B      Taille : 1,76 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : 500 000 000 B      Taille : 1,76 m     Origine : Inconnue                   1re app. : Village de Syrup
 
 ── ÉQUIPAGE DU CHAT NOIR  (2) ──────────────────────────────────────────────────────────────────────
   Kuro                             🐈‍⬛🤓🐾
      Homme    · Aucun           · Haki : —
-     Prime : 16 000 000 B       Taille : 2,07 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : 16 000 000 B       Taille : 2,07 m     Origine : Inconnue                   1re app. : Village de Syrup
   Sham                             
      Homme    · Aucun           · Haki : —
-     Prime : 7 000 000 B        Taille : 2,01 m     Origine : East Blue                  1re app. : East Blue
+     Prime : 7 000 000 B        Taille : 2,01 m     Origine : East Blue                  1re app. : Village de Syrup
 
 ── ÉQUIPAGE DU FIRE TANK  (3) ──────────────────────────────────────────────────────────────────────
   Caesar Clown                     ☠️🎈🧪
      Homme    · Logia           · Haki : —
-     Prime : 300 000 000 B      Taille : 3,09 m     Origine : Grand Line                 1re app. : Dressrosa
+     Prime : 300 000 000 B      Taille : 3,09 m     Origine : Grand Line                 1re app. : Punk Hazard
   Capone Bege                      🏰🔫🎩
      Homme    · Paramecia       · Haki : Armement
-     Prime : 350 000 000 B      Taille : 1,66 m     Origine : West Blue                  1re app. : Guerre au Sommet
+     Prime : 350 000 000 B      Taille : 1,66 m     Origine : West Blue                  1re app. : Sabaody
   Vito                             
      Homme    · Aucun           · Haki : —
-     Prime : 95 000 000 B       Taille : 2,42 m     Origine : West Blue                  1re app. : Whole Cake Island
+     Prime : 95 000 000 B       Taille : 2,42 m     Origine : West Blue                  1re app. : Zou
 
 ── ÉQUIPAGE DU HEART  (3) ──────────────────────────────────────────────────────────────────────────
   Bepo                             🐻‍❄️🥋
      Homme    · Aucun           · Haki : —
-     Prime : 1 500 B            Taille : 2,40 m     Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : 1 500 B            Taille : 2,40 m     Origine : Grand Line                 1re app. : Sabaody
   Penguin                          🐧🏴‍☠️
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : North Blue                 1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : North Blue                 1re app. : Sabaody
   Trafalgar D. Water Law           💉🔪🩺
      Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : 3 000 000 000 B    Taille : 1,91 m     Origine : North Blue                 1re app. : Guerre au Sommet
+     Prime : 3 000 000 000 B    Taille : 1,91 m     Origine : North Blue                 1re app. : Sabaody
 
 ── ÉQUIPAGE DU ON-AIR  (1) ─────────────────────────────────────────────────────────────────────────
   Scratchmen Apoo                  🎵🥁
      Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : 198 000 000 B      Taille : 2,56 m     Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : 198 000 000 B      Taille : 2,56 m     Origine : Grand Line                 1re app. : Sabaody
 
 ── ÉQUIPAGE DU ROUX  (2) ───────────────────────────────────────────────────────────────────────────
   Rockstar                         🎸🏴‍☠️
      Homme    · Aucun           · Haki : —
-     Prime : 94 000 000 B       Taille : ?          Origine : Inconnue                   1re app. : Skypiea
+     Prime : 94 000 000 B       Taille : ?          Origine : Inconnue                   1re app. : Jaya
   Yasopp                           🎯🔫
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 1,83 m     Origine : East Blue                  1re app. : East Blue
+     Prime : ?                  Taille : 1,83 m     Origine : East Blue                  1re app. : Romance Dawn
 
 ── ERBAF  (2) ──────────────────────────────────────────────────────────────────────────────────────
   Gerd                             
@@ -782,12 +782,12 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── FAMILLE DADAN  (1) ──────────────────────────────────────────────────────────────────────────────
   Magra                            
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : East Blue                  1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : East Blue                  1re app. : Après-guerre
 
 ── FAMILLE DAVY  (2) ───────────────────────────────────────────────────────────────────────────────
   Davy D. Jones                    
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Water 7
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Long Ring Long Land
   Eris                             
      Femme    · Aucun           · Haki : —
      Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Elbaf
@@ -800,13 +800,13 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── FAMILLE KOZUKI  (7) ─────────────────────────────────────────────────────────────────────────────
   Kin'emon                         🔥👘🦊
      Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : ?                  Taille : 2,95 m     Origine : Wano                       1re app. : Dressrosa
+     Prime : ?                  Taille : 2,95 m     Origine : Wano                       1re app. : Punk Hazard
   Kozuki Hiyori                    🎎🎻
      Femme    · Aucun           · Haki : —
      Prime : ?                  Taille : 1,70 m     Origine : Grand Line                 1re app. : Wano
   Kozuki Momonosuke                🐉👦
      Homme    · Zoan Mythique   · Haki : —
-     Prime : ?                  Taille : 3,22 m     Origine : Grand Line                 1re app. : Dressrosa
+     Prime : ?                  Taille : 3,22 m     Origine : Grand Line                 1re app. : Punk Hazard
   Kozuki Oden                      🍢⚔️👘
      Homme    · Aucun           · Haki : Armement + Observation + Rois
      Prime : ?                  Taille : 3,82 m     Origine : Wano                       1re app. : Wano
@@ -828,7 +828,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── FAMILLE NEFERTARI  (1) ──────────────────────────────────────────────────────────────────────────
   Nefeltari Cobra                  👑🏜️
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,82 m     Origine : Inconnue                   1re app. : Alabasta
+     Prime : ?                  Taille : 1,82 m     Origine : Inconnue                   1re app. : Drum
 
 ── FAMILLE ROYALE D'ERBAF  (1) ─────────────────────────────────────────────────────────────────────
   Harald                           
@@ -841,10 +841,10 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 4,28 m     Origine : Inconnue                   1re app. : Wano
   Shimotsuki Kôshirô               
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,84 m     Origine : East Blue                  1re app. : East Blue
+     Prime : ?                  Taille : 1,84 m     Origine : East Blue                  1re app. : Romance Dawn
   Shimotsuki Kuina                 
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,50 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : 1,50 m     Origine : Inconnue                   1re app. : Romance Dawn
   Shimotsuki Ushimaru              
      Homme    · Aucun           · Haki : Armement + Observation
      Prime : ?                  Taille : 2,98 m     Origine : Inconnue                   1re app. : Wano
@@ -852,7 +852,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── FAUX ÉQUIPAGE DU CHAPEAU DE PAILLE  (1) ─────────────────────────────────────────────────────────
   Demalo Black                     
      Homme    · Aucun           · Haki : —
-     Prime : 26 000 000 B       Taille : 2,45 m     Origine : East Blue                  1re app. : Ile des Hommes-Poissons
+     Prime : 26 000 000 B       Taille : 2,45 m     Origine : East Blue                  1re app. : Retour à Sabaody
 
 ── FLOTTE DE HAPPOU  (2) ───────────────────────────────────────────────────────────────────────────
   Boo                              
@@ -865,7 +865,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── FORCES SPÉCIALES SIMIESQUES  (1) ────────────────────────────────────────────────────────────────
   Masira                           
      Homme    · Aucun           · Haki : —
-     Prime : 23 000 000 B       Taille : 3,45 m     Origine : North Blue                 1re app. : Skypiea
+     Prime : 23 000 000 B       Taille : 3,45 m     Origine : North Blue                 1re app. : Jaya
 
 ── FORÊT DE LA TENTATION  (1) ──────────────────────────────────────────────────────────────────────
   King Baum                        
@@ -929,7 +929,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── GOL D. ROGER  (1) ───────────────────────────────────────────────────────────────────────────────
   Rouge                            🤰🌸
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Marineford
 
 ── GOUVERNEMENT MONDIAL  (13) ──────────────────────────────────────────────────────────────────────
   Atlas                            🦾💪
@@ -940,31 +940,31 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 1,00 m     Origine : Inconnue                   1re app. : Egghead
   Im                               👁️🗡️👑
      Inconnu  · Aucun           · Haki : Observation + Rois
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Wano
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Reverie
   Kong                             🦍⚓
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Après-guerre
   Lilith                           😈🔫
      Femme    · Aucun           · Haki : —
      Prime : ?                  Taille : 2,04 m     Origine : Inconnue                   1re app. : Egghead
   Magellan                         ☠️🧪
      Homme    · Paramecia       · Haki : —
-     Prime : ?                  Taille : 4,91 m     Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 4,91 m     Origine : Grand Line                 1re app. : Impel Down
   Pythagoras                       📐🧮
      Inconnu  · Aucun           · Haki : —
      Prime : ?                  Taille : 3,51 m     Origine : Inconnue                   1re app. : Egghead
   Saint Charlos                    👃🫧
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,30 m     Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 2,30 m     Origine : Inconnue                   1re app. : Sabaody
   Saint Don Quichotte Mjosgard     
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 2,11 m     Origine : Inconnue                   1re app. : Ile des Hommes-Poissons
   Saint Rosward Rosward            
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,15 m     Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 2,15 m     Origine : Inconnue                   1re app. : Sabaody
   Sainte Rosward Sharlia           
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,78 m     Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 1,78 m     Origine : Inconnue                   1re app. : Sabaody
   Vegapunk                         🧠🔬🍭
      Homme    · Paramecia       · Haki : —
      Prime : ?                  Taille : 3,14 m     Origine : Grand Line                 1re app. : Egghead
@@ -975,13 +975,13 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── GOUVERNEMENT MONDIAL  (3) ───────────────────────────────────────────────────────────────────────
   Hannyabal                        👺🤫
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 3,09 m     Origine : South Blue                 1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 3,09 m     Origine : South Blue                 1re app. : Impel Down
   Shaka                            🤖🧠
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 2,20 m     Origine : Inconnue                   1re app. : Egghead
   Shiryu                           🌫️⚔️
      Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : ?                  Taille : 3,40 m     Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 3,40 m     Origine : Grand Line                 1re app. : Impel Down
 
 ── GRAN TESORO  (1) ────────────────────────────────────────────────────────────────────────────────
   Tanaka                           
@@ -996,7 +996,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── HOKKER  (1) ─────────────────────────────────────────────────────────────────────────────────────
   Chouchou                         
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 40 cm      Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : 40 cm      Origine : Inconnue                   1re app. : Ville d'Orange
 
 ── HOMMES-POISSONS  (2) ────────────────────────────────────────────────────────────────────────────
   Fukaboshi                        🦈🤴
@@ -1009,7 +1009,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── ÎLE DE DRUM  (1) ────────────────────────────────────────────────────────────────────────────────
   Wapol                            🥫👑
      Homme    · Paramecia       · Haki : —
-     Prime : ?                  Taille : 2,07 m     Origine : Inconnue                   1re app. : Alabasta
+     Prime : ?                  Taille : 2,07 m     Origine : Inconnue                   1re app. : Drum
 
 ── ÎLE DES HOMMES-POISSONS  (2) ────────────────────────────────────────────────────────────────────
   Manboshi                         
@@ -1022,19 +1022,19 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── IMPEL DOWN  (6) ─────────────────────────────────────────────────────────────────────────────────
   Domino                           🃏🔑
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : Grand Line                 1re app. : Impel Down
   Minotaure                        
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Impel Down
   Mr. 2 Bon Clay                   🦢🩰2️⃣
      Inconnu  · Paramecia       · Haki : —
-     Prime : 32 000 000 B       Taille : 2,38 m     Origine : East Blue                  1re app. : Alabasta
+     Prime : 32 000 000 B       Taille : 2,38 m     Origine : East Blue                  1re app. : Little Garden
   Sadi                             🔥👠
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,83 m     Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 1,83 m     Origine : Grand Line                 1re app. : Impel Down
   Saldeath                         
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,18 m     Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 2,18 m     Origine : Grand Line                 1re app. : Impel Down
   Senor Pink                       👶🏊
      Homme    · Paramecia       · Haki : —
      Prime : 58 000 000 B       Taille : 2,44 m     Origine : North Blue                 1re app. : Dressrosa
@@ -1042,34 +1042,34 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── JOHNNY  (1) ─────────────────────────────────────────────────────────────────────────────────────
   Yosaku                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,85 m     Origine : East Blue                  1re app. : East Blue
+     Prime : ?                  Taille : 1,85 m     Origine : East Blue                  1re app. : Baratie
 
 ── KOKOYASHI  (1) ──────────────────────────────────────────────────────────────────────────────────
   Genzo                            🌀👮
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,73 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : 1,73 m     Origine : Inconnue                   1re app. : Arlong Park
 
 ── KUJA  (1) ───────────────────────────────────────────────────────────────────────────────────────
   Gloriosa                         👵🐍
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Amazon Lily
 
 ── KUJAS  (5) ──────────────────────────────────────────────────────────────────────────────────────
   Aphelandra                       
      Femme    · Aucun           · Haki : Armement
-     Prime : ?                  Taille : ?          Origine : Calm Belt                  1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : Calm Belt                  1re app. : Amazon Lily
   Boa Hancock                      🐍💗👑
      Femme    · Paramecia       · Haki : Armement + Observation + Rois
-     Prime : 1 659 000 000 B    Taille : 1,91 m     Origine : Calm Belt                  1re app. : Thriller Bark
+     Prime : 1 659 000 000 B    Taille : 1,91 m     Origine : Calm Belt                  1re app. : Amazon Lily
   Boa Marigold                     🐍🧡
      Femme    · Zoan            · Haki : Armement + Observation
-     Prime : 40 000 000 B       Taille : 4,32 m     Origine : Calm Belt                  1re app. : Guerre au Sommet
+     Prime : 40 000 000 B       Taille : 4,32 m     Origine : Calm Belt                  1re app. : Amazon Lily
   Boa Sandersonia                  🐍💚
      Femme    · Zoan            · Haki : Armement + Observation
-     Prime : 40 000 000 B       Taille : 4,53 m     Origine : Calm Belt                  1re app. : Guerre au Sommet
+     Prime : 40 000 000 B       Taille : 4,53 m     Origine : Calm Belt                  1re app. : Amazon Lily
   Marguerite                       
      Femme    · Aucun           · Haki : Armement
-     Prime : ?                  Taille : 1,78 m     Origine : Calm Belt                  1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 1,78 m     Origine : Calm Belt                  1re app. : Amazon Lily
 
 ── L'ÉQUIPAGE AUX CENT BÊTES  (1) ──────────────────────────────────────────────────────────────────
   Speed                            
@@ -1079,44 +1079,44 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── L'ÉQUIPAGE D'ALVIDA  (1) ────────────────────────────────────────────────────────────────────────
   Koby                             🌸👊
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : 500 000 000 B      Taille : 1,67 m     Origine : East Blue                  1re app. : East Blue
+     Prime : 500 000 000 B      Taille : 1,67 m     Origine : East Blue                  1re app. : Romance Dawn
 
 ── L'ÉQUIPAGE DE BARBE BLANCHE  (8) ────────────────────────────────────────────────────────────────
   Doma                             
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Marineford
   Fossa                            
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : North Blue                 1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : North Blue                 1re app. : Marineford
   Frères Decalvan                  
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Amazon Lily
   Haruta                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : South Blue                 1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : South Blue                 1re app. : Marineford
   Izo                              🔫💄
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : 510 000 000 B      Taille : 1,92 m     Origine : Wano                       1re app. : Guerre au Sommet
+     Prime : 510 000 000 B      Taille : 1,92 m     Origine : Wano                       1re app. : Marineford
   Jozu                             💎🛡️
      Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : ?                  Taille : 5,03 m     Origine : West Blue                  1re app. : Skypiea
+     Prime : ?                  Taille : 5,03 m     Origine : West Blue                  1re app. : Jaya
   Squardo                          🦈⚔️
      Homme    · Aucun           · Haki : —
-     Prime : 210 000 000 B      Taille : 2,28 m     Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : 210 000 000 B      Taille : 2,28 m     Origine : Grand Line                 1re app. : Marineford
   Thatch                           🍳🏴‍☠️
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : North Blue                 1re app. : Water 7
+     Prime : ?                  Taille : ?          Origine : North Blue                 1re app. : Post-Enies Lobby
 
 ── L'ÉQUIPAGE DE BARBE NOIRE  (3) ──────────────────────────────────────────────────────────────────
   Barbe Noire                      🌑🦷😈
      Homme    · Logia           · Haki : Armement + Observation
-     Prime : 3 996 000 000 B    Taille : 3,44 m     Origine : Grand Line                 1re app. : Skypiea
+     Prime : 3 996 000 000 B    Taille : 3,44 m     Origine : Grand Line                 1re app. : Jaya
   Doc Q                            🤒🍎
      Homme    · Paramecia       · Haki : —
-     Prime : 72 000 000 B       Taille : 3,42 m     Origine : North Blue                 1re app. : Skypiea
+     Prime : 72 000 000 B       Taille : 3,42 m     Origine : North Blue                 1re app. : Jaya
   Lafitte                          🎩🕊️
      Homme    · Aucun           · Haki : —
-     Prime : 42 200 000 B       Taille : 3,40 m     Origine : West Blue                  1re app. : Skypiea
+     Prime : 42 200 000 B       Taille : 3,40 m     Origine : West Blue                  1re app. : Jaya
 
 ── L'ÉQUIPAGE DE BARTOLOMEO  (1) ───────────────────────────────────────────────────────────────────
   Bartolomeo                       🛡️👹🤩
@@ -1140,39 +1140,39 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── L'ÉQUIPAGE DE BLUEJAM  (2) ──────────────────────────────────────────────────────────────────────
   Bluejam                          
      Homme    · Aucun           · Haki : —
-     Prime : 14 300 000 B       Taille : 2,61 m     Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : 14 300 000 B       Taille : 2,61 m     Origine : Inconnue                   1re app. : Après-guerre
   Porchemy                         
      Homme    · Aucun           · Haki : —
-     Prime : 3 400 000 B        Taille : 3,20 m     Origine : East Blue                  1re app. : Guerre au Sommet
+     Prime : 3 400 000 B        Taille : 3,20 m     Origine : East Blue                  1re app. : Après-guerre
 
 ── L'ÉQUIPAGE DE BONNEY  (1) ───────────────────────────────────────────────────────────────────────
   Jewelry Bonney                   🍕⏳
      Femme    · Paramecia       · Haki : —
-     Prime : 320 000 000 B      Taille : 1,74 m     Origine : South Blue                 1re app. : Guerre au Sommet
+     Prime : 320 000 000 B      Taille : 1,74 m     Origine : South Blue                 1re app. : Sabaody
 
 ── L'ÉQUIPAGE DE CARIBOU  (1) ──────────────────────────────────────────────────────────────────────
   Coribou                          
      Homme    · Aucun           · Haki : —
-     Prime : 190 000 000 B      Taille : 2,50 m     Origine : North Blue                 1re app. : Ile des Hommes-Poissons
+     Prime : 190 000 000 B      Taille : 2,50 m     Origine : North Blue                 1re app. : Retour à Sabaody
 
 ── L'ÉQUIPAGE DE FOXY  (4) ─────────────────────────────────────────────────────────────────────────
   Big Pan                          
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Water 7
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Long Ring Long Land
   Foxy                             🦊🐌
      Homme    · Paramecia       · Haki : —
-     Prime : 24 000 000 B       Taille : 1,80 m     Origine : South Blue                 1re app. : Water 7
+     Prime : 24 000 000 B       Taille : 1,80 m     Origine : South Blue                 1re app. : Long Ring Long Land
   Hamburg                          
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Water 7
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Long Ring Long Land
   Porche                           
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Water 7
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Long Ring Long Land
 
 ── L'ÉQUIPAGE DE KID  (1) ──────────────────────────────────────────────────────────────────────────
   Eustass Kid                      🧲🔩🔥
      Homme    · Paramecia       · Haki : Armement + Observation + Rois
-     Prime : 3 000 000 000 B    Taille : 2,05 m     Origine : South Blue                 1re app. : Guerre au Sommet
+     Prime : 3 000 000 000 B    Taille : 2,05 m     Origine : South Blue                 1re app. : Sabaody
 
 ── L'ÉQUIPAGE DE ROCKS  (2) ────────────────────────────────────────────────────────────────────────
   Big Mom                          🍰👵⛈️
@@ -1185,18 +1185,18 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── L'ÉQUIPAGE DE X. BARRELS  (1) ───────────────────────────────────────────────────────────────────
   X Drake                          🦖❌
      Homme    · Zoan Ancestral  · Haki : Armement + Observation
-     Prime : 222 000 000 B      Taille : 2,33 m     Origine : North Blue                 1re app. : Guerre au Sommet
+     Prime : 222 000 000 B      Taille : 2,33 m     Origine : North Blue                 1re app. : Sabaody
 
 ── L'ÉQUIPAGE DES GÉANTS  (3) ──────────────────────────────────────────────────────────────────────
   Dorry                            🧌🍖
      Homme    · Aucun           · Haki : —
-     Prime : 1 800 000 000 B    Taille : 22,60 m    Origine : Elbaf                      1re app. : Alabasta
+     Prime : 1 800 000 000 B    Taille : 22,60 m    Origine : Elbaf                      1re app. : Little Garden
   Jarl                             
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 20,50 m    Origine : Elbaf                      1re app. : Whole Cake Island
   Oimo                             🧌🌴
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 16,00 m    Origine : Elbaf                      1re app. : Water 7
+     Prime : ?                  Taille : 16,00 m    Origine : Elbaf                      1re app. : Enies Lobby
 
 ── L'ÉQUIPAGE DES NOUVEAUX HOMMES-POISSONS  (1) ────────────────────────────────────────────────────
   Surume                           
@@ -1206,7 +1206,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── L'ÉQUIPAGE DES PIRATES DU SOLEIL  (2) ───────────────────────────────────────────────────────────
   Fisher Tiger                     
      Homme    · Aucun           · Haki : —
-     Prime : 230 000 000 B      Taille : 5,20 m     Origine : Ile des Hommes-Poissons    1re app. : Guerre au Sommet
+     Prime : 230 000 000 B      Taille : 5,20 m     Origine : Ile des Hommes-Poissons    1re app. : Amazon Lily
   Wadatsumi                        
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 80,00 m    Origine : Ile des Hommes-Poissons    1re app. : Ile des Hommes-Poissons
@@ -1214,12 +1214,12 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── L'ÉQUIPAGE DES PIRATES ROGER  (1) ───────────────────────────────────────────────────────────────
   Scopper Gaban                    🪓🏴‍☠️
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Ville d'Orange
 
 ── L'ÉQUIPAGE DES PIRATES RUMBAR  (1) ──────────────────────────────────────────────────────────────
   Yorki                            
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Alabasta
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Reverse Mountain
 
 ── L'ÉQUIPAGE DES PIRATES VOLANTS  (1) ─────────────────────────────────────────────────────────────
   Vander Decken IX                 🎯💌
@@ -1229,33 +1229,33 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── L'ÉQUIPAGE DU CAPITAINE USOPP  (2) ──────────────────────────────────────────────────────────────
   Carotte                          
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,27 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : 1,27 m     Origine : Inconnue                   1re app. : Village de Syrup
   Piment                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,20 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : 1,20 m     Origine : Inconnue                   1re app. : Village de Syrup
 
 ── L'ÉQUIPAGE DU CHAT NOIR  (1) ────────────────────────────────────────────────────────────────────
   Buchi                            
      Homme    · Aucun           · Haki : —
-     Prime : 7 000 000 B        Taille : 2,16 m     Origine : East Blue                  1re app. : East Blue
+     Prime : 7 000 000 B        Taille : 2,16 m     Origine : East Blue                  1re app. : Village de Syrup
 
 ── L'ÉQUIPAGE DU CLOWN  (2) ────────────────────────────────────────────────────────────────────────
   Cabaji                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,08 m     Origine : East Blue                  1re app. : East Blue
+     Prime : ?                  Taille : 2,08 m     Origine : East Blue                  1re app. : Ville d'Orange
   Richie                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Ville d'Orange
 
 ── L'ÉQUIPAGE DU HEART  (1) ────────────────────────────────────────────────────────────────────────
   Jean Bart                        
      Homme    · Aucun           · Haki : —
-     Prime : 100 000 000 B      Taille : ?          Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : 100 000 000 B      Taille : ?          Origine : Inconnue                   1re app. : Sabaody
 
 ── L'ÉQUIPAGE DU LION D'OR  (1) ────────────────────────────────────────────────────────────────────
   Shiki                            🦁🛞
      Homme    · Paramecia       · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Impel Down
 
 ── L'ÉQUIPAGE DU ROLLING  (1) ──────────────────────────────────────────────────────────────────────
   Charlotte Laura                  
@@ -1265,122 +1265,122 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── L'ÉQUIPAGE DU ROUX  (3) ─────────────────────────────────────────────────────────────────────────
   Benn Beckman                     🚬🔫🧠
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 2,06 m     Origine : North Blue                 1re app. : East Blue
+     Prime : ?                  Taille : 2,06 m     Origine : North Blue                 1re app. : Romance Dawn
   Lucky Roo                        🍖🔫
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 2,41 m     Origine : South Blue                 1re app. : East Blue
+     Prime : ?                  Taille : 2,41 m     Origine : South Blue                 1re app. : Romance Dawn
   Shanks                           🦰🗡️👒
      Homme    · Aucun           · Haki : Armement + Observation + Rois
-     Prime : 4 048 900 000 B    Taille : 1,99 m     Origine : West Blue                  1re app. : East Blue
+     Prime : 4 048 900 000 B    Taille : 1,99 m     Origine : West Blue                  1re app. : Romance Dawn
 
 ── L'ÉQUIPAGE DU RUMBAR  (1) ───────────────────────────────────────────────────────────────────────
   Laboon                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 400,00 m   Origine : West Blue                  1re app. : Alabasta
+     Prime : ?                  Taille : 400,00 m   Origine : West Blue                  1re app. : Reverse Mountain
 
 ── L’ÉQUIPAGE DE WAPOL  (1) ────────────────────────────────────────────────────────────────────────
   Smack                            
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,94 m     Origine : Inconnue                   1re app. : Alabasta
+     Prime : ?                  Taille : 1,94 m     Origine : Inconnue                   1re app. : Drum
 
 ── LIGUE DES PRIMATES  (2) ─────────────────────────────────────────────────────────────────────────
   Mont Blanc Cricket               
      Homme    · Aucun           · Haki : —
-     Prime : 25 000 000 B       Taille : 2,42 m     Origine : North Blue                 1re app. : Skypiea
+     Prime : 25 000 000 B       Taille : 2,42 m     Origine : North Blue                 1re app. : Jaya
   Shojo                            
      Homme    · Aucun           · Haki : —
-     Prime : 36 000 000 B       Taille : 3,51 m     Origine : South Blue                 1re app. : Skypiea
+     Prime : 36 000 000 B       Taille : 3,51 m     Origine : South Blue                 1re app. : Jaya
 
 ── MARINE  (15) ────────────────────────────────────────────────────────────────────────────────────
   Akainu                           🌋🔥🧢
      Homme    · Logia           · Haki : Armement + Observation
-     Prime : 4 000 000 000 B    Taille : 3,06 m     Origine : North Blue                 1re app. : Water 7
+     Prime : 4 000 000 000 B    Taille : 3,06 m     Origine : North Blue                 1re app. : Enies Lobby
   Bellemere                        🍊🚬
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,86 m     Origine : East Blue                  1re app. : East Blue
+     Prime : ?                  Taille : 1,86 m     Origine : East Blue                  1re app. : Arlong Park
   Fullbody                         🍷🥊
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,84 m     Origine : North Blue                 1re app. : East Blue
+     Prime : ?                  Taille : 1,84 m     Origine : North Blue                 1re app. : Baratie
   Helmeppo                         💇🗡️
      Homme    · Aucun           · Haki : Observation
-     Prime : 100 000 000 B      Taille : 1,79 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : 100 000 000 B      Taille : 1,79 m     Origine : Inconnue                   1re app. : Romance Dawn
   Hina                             ⛓️🚬
      Femme    · Paramecia       · Haki : —
      Prime : ?                  Taille : 1,81 m     Origine : West Blue                  1re app. : Alabasta
   Jango                            
      Homme    · Aucun           · Haki : —
-     Prime : 9 000 000 B        Taille : 2,07 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : 9 000 000 B        Taille : 2,07 m     Origine : Inconnue                   1re app. : Village de Syrup
   John Giant                       
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Loguetown
   Morgan                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,85 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : 2,85 m     Origine : Inconnue                   1re app. : Romance Dawn
   Nezumi                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,82 m     Origine : East Blue                  1re app. : East Blue
+     Prime : ?                  Taille : 1,82 m     Origine : East Blue                  1re app. : Arlong Park
   Ryokugyu                         🌳🍽️
      Homme    · Logia           · Haki : Armement + Observation
      Prime : 3 000 000 000 B    Taille : 3,08 m     Origine : Inconnue                   1re app. : Dressrosa
   Sengoku                          🗿🍘⚖️
      Homme    · Zoan Mythique   · Haki : Armement + Observation + Rois
-     Prime : ?                  Taille : 2,78 m     Origine : South Blue                 1re app. : Skypiea
+     Prime : ?                  Taille : 2,78 m     Origine : South Blue                 1re app. : Jaya
   Sentomaru                        🪓🤖
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : 500 000 000 B      Taille : 2,79 m     Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : 500 000 000 B      Taille : 2,79 m     Origine : Grand Line                 1re app. : Sabaody
   Smoker                           🚬💨🐆
      Homme    · Logia           · Haki : Armement + Observation
-     Prime : ?                  Taille : 2,09 m     Origine : Grand Line                 1re app. : East Blue
+     Prime : ?                  Taille : 2,09 m     Origine : Grand Line                 1re app. : Loguetown
   T-Bone                           🦴⚔️
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 2,00 m     Origine : Grand Line                 1re app. : Water 7
   Tashigi                          👓⚔️
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,70 m     Origine : East Blue                  1re app. : East Blue
+     Prime : ?                  Taille : 1,70 m     Origine : East Blue                  1re app. : Loguetown
 
 ── MARINES  (14) ───────────────────────────────────────────────────────────────────────────────────
   Bastille                         🐂⚔️
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 2,91 m     Origine : Grand Line                 1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 2,91 m     Origine : Grand Line                 1re app. : Marineford
   Bogart                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Arlong Park
   Brannew                          📰🚬
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,90 m     Origine : Grand Line                 1re app. : East Blue
+     Prime : ?                  Taille : 1,90 m     Origine : Grand Line                 1re app. : Loguetown
   Dalmatien                        
      Homme    · Zoan            · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Marineford
   Doberman                         
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Water 7
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Enies Lobby
   Fujitora                         🌌🦯⚖️
      Homme    · Paramecia       · Haki : Armement + Observation
      Prime : 3 000 000 000 B    Taille : 2,70 m     Origine : Grand Line                 1re app. : Dressrosa
   Jaguar D. Saul                   🧌❄️😆
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 19,50 m    Origine : South Blue                 1re app. : Water 7
+     Prime : ?                  Taille : 19,50 m    Origine : South Blue                 1re app. : Enies Lobby
   Kizaru                           💡🕶️🍡
      Homme    · Logia           · Haki : Armement + Observation
-     Prime : 3 000 000 000 B    Taille : 3,02 m     Origine : North Blue                 1re app. : Guerre au Sommet
+     Prime : 3 000 000 000 B    Taille : 3,02 m     Origine : North Blue                 1re app. : Sabaody
   Lacroix                          
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Marineford
   Momonga                          ⚓⚔️
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 2,51 m     Origine : Grand Line                 1re app. : Water 7
+     Prime : ?                  Taille : 2,51 m     Origine : Grand Line                 1re app. : Enies Lobby
   Monkey D. Garp                   👊🍩⚓
      Homme    · Aucun           · Haki : Armement + Observation + Rois
-     Prime : 3 000 000 000 B    Taille : 2,87 m     Origine : East Blue                  1re app. : East Blue
+     Prime : 3 000 000 000 B    Taille : 2,87 m     Origine : East Blue                  1re app. : Arlong Park
   Onigumo                          🕷️⚓
      Homme    · Zoan            · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Water 7
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Enies Lobby
   Ronse                            
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Marineford
   Strawberry                       
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Water 7
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Enies Lobby
 
 ── MERMAID CAFÉ  (1) ───────────────────────────────────────────────────────────────────────────────
   Shyarly                          
@@ -1423,12 +1423,12 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── OHARA  (1) ──────────────────────────────────────────────────────────────────────────────────────
   Nico Olvia                       
      Femme    · Aucun           · Haki : —
-     Prime : 79 000 000 B       Taille : 1,86 m     Origine : West Blue                  1re app. : Water 7
+     Prime : 79 000 000 B       Taille : 1,86 m     Origine : West Blue                  1re app. : Enies Lobby
 
 ── ORANGE TOWN  (1) ────────────────────────────────────────────────────────────────────────────────
   Buddle                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,72 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : 1,72 m     Origine : Inconnue                   1re app. : Ville d'Orange
 
 ── PAYS DE WA  (3) ─────────────────────────────────────────────────────────────────────────────────
   Denjiro                          💰⚔️
@@ -1447,7 +1447,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 1,93 m     Origine : Inconnue                   1re app. : Wano
   Raizo                            🥷📜
      Homme    · Paramecia       · Haki : Armement + Observation
-     Prime : ?                  Taille : 3,11 m     Origine : Wano                       1re app. : Whole Cake Island
+     Prime : ?                  Taille : 3,11 m     Origine : Wano                       1re app. : Zou
   Shimotsuki Yasuie                
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 1,55 m     Origine : Inconnue                   1re app. : Wano
@@ -1458,63 +1458,63 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── PHARE DU CAP DES JUMEAUX  (1) ───────────────────────────────────────────────────────────────────
   Crocus                           🐋🩺
      Homme    · Aucun           · Haki : Observation
-     Prime : ?                  Taille : 2,03 m     Origine : Grand Line                 1re app. : Alabasta
+     Prime : ?                  Taille : 2,03 m     Origine : Grand Line                 1re app. : Reverse Mountain
 
 ── PIRATES/QUATRE EMPEREURS  (1) ───────────────────────────────────────────────────────────────────
   Barbe Blanche                    🌊🔱👨‍👦
      Homme    · Paramecia       · Haki : Armement + Observation + Rois
-     Prime : 5 046 000 000 B    Taille : 6,66 m     Origine : Inconnue                   1re app. : Skypiea
+     Prime : 5 046 000 000 B    Taille : 6,66 m     Origine : Inconnue                   1re app. : Jaya
 
 ── PIRATES/SEPT GRANDS CORSAIRES  (1) ──────────────────────────────────────────────────────────────
   Bartholomew Kuma                 🐻📖🍑
      Homme    · Paramecia       · Haki : Observation
-     Prime : 296 000 000 B      Taille : 6,89 m     Origine : South Blue                 1re app. : Skypiea
+     Prime : 296 000 000 B      Taille : 6,89 m     Origine : South Blue                 1re app. : Jaya
 
 ── PIRATES/SEPT GRANDS CORSAIRES  (1) ──────────────────────────────────────────────────────────────
   Edward Weevil                    🌙👶
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : 480 000 000 B      Taille : 6,80 m     Origine : Grand Line                 1re app. : Whole Cake Island
+     Prime : 480 000 000 B      Taille : 6,80 m     Origine : Grand Line                 1re app. : Zou
 
 ── PRINCIPAUTÉ DE MOKOMO  (4) ──────────────────────────────────────────────────────────────────────
   Inuarashi                        🐶🌞
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 5,11 m     Origine : Grand Line                 1re app. : Whole Cake Island
+     Prime : ?                  Taille : 5,11 m     Origine : Grand Line                 1re app. : Zou
   Miyagi                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Whole Cake Island
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Zou
   Nekomamushi                      🐱🌙
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : ?                  Taille : 5,22 m     Origine : Grand Line                 1re app. : Whole Cake Island
+     Prime : ?                  Taille : 5,22 m     Origine : Grand Line                 1re app. : Zou
   Wanda                            🐕‍🦺🌙
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,81 m     Origine : Grand Line                 1re app. : Whole Cake Island
+     Prime : ?                  Taille : 1,81 m     Origine : Grand Line                 1re app. : Zou
 
 ── RÉVOLUTIONNAIRES  (5) ───────────────────────────────────────────────────────────────────────────
   Belo Betty                       📣🚩
      Femme    · Paramecia       · Haki : Armement + Observation
-     Prime : 457 000 000 B      Taille : 1,96 m     Origine : East Blue                  1re app. : Wano
+     Prime : 457 000 000 B      Taille : 1,96 m     Origine : East Blue                  1re app. : Reverie
   Inazuma                          ✂️🔓
      Inconnu  · Paramecia       · Haki : —
-     Prime : 100 000 000 B      Taille : 2,28 m     Origine : South Blue                 1re app. : Guerre au Sommet
+     Prime : 100 000 000 B      Taille : 2,28 m     Origine : South Blue                 1re app. : Impel Down
   Karasu                           🐦‍⬛🎩
      Homme    · Logia           · Haki : Armement + Observation
-     Prime : 400 000 000 B      Taille : 2,65 m     Origine : North Blue                 1re app. : Guerre au Sommet
+     Prime : 400 000 000 B      Taille : 2,65 m     Origine : North Blue                 1re app. : Après-guerre
   Lindbergh                        🐱🔧
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : 316 000 000 B      Taille : 1,49 m     Origine : Inconnue                   1re app. : Wano
+     Prime : 316 000 000 B      Taille : 1,49 m     Origine : Inconnue                   1re app. : Reverie
   Morley                           🧌⛏️
      Inconnu  · Paramecia       · Haki : Armement + Observation
-     Prime : 293 000 000 B      Taille : 12,53 m    Origine : Inconnue                   1re app. : Wano
+     Prime : 293 000 000 B      Taille : 12,53 m    Origine : Inconnue                   1re app. : Reverie
 
 ── RIP-OFF BAR DE SHAKKY  (1) ──────────────────────────────────────────────────────────────────────
   Shakky                           🚬🍸
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,86 m     Origine : Calm Belt                  1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 1,86 m     Origine : Calm Belt                  1re app. : Sabaody
 
 ── ROSY LIFE RIDERS  (1) ───────────────────────────────────────────────────────────────────────────
   Duval                            
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 4,70 m     Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 4,70 m     Origine : Inconnue                   1re app. : Sabaody
 
 ── ROYAUME DE GERMA  (1) ───────────────────────────────────────────────────────────────────────────
   Vinsmoke Judge                   
@@ -1547,13 +1547,13 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── ROYAUME DES CERISIERS  (3) ──────────────────────────────────────────────────────────────────────
   Dolton                           🐃❄️
      Homme    · Zoan            · Haki : —
-     Prime : ?                  Taille : 2,18 m     Origine : Inconnue                   1re app. : Alabasta
+     Prime : ?                  Taille : 2,18 m     Origine : Inconnue                   1re app. : Drum
   Dr. Hiluluk                      🌸💀
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,13 m     Origine : Inconnue                   1re app. : Alabasta
+     Prime : ?                  Taille : 2,13 m     Origine : Inconnue                   1re app. : Drum
   Dr. Kureha                       🍒👵🩺
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,88 m     Origine : Grand Line                 1re app. : Alabasta
+     Prime : ?                  Taille : 1,88 m     Origine : Grand Line                 1re app. : Drum
 
 ── ROYAUME RYUGU  (1) ──────────────────────────────────────────────────────────────────────────────
   Neptune                          🔱🐟👑
@@ -1572,19 +1572,19 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 4,36 m     Origine : Inconnue                   1re app. : Dressrosa
   Gaimon                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,30 m     Origine : East Blue                  1re app. : East Blue
+     Prime : ?                  Taille : 1,30 m     Origine : East Blue                  1re app. : Village de Syrup
   Goldberg                         
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 21,00 m    Origine : Inconnue                   1re app. : Whole Cake Island
   Higuma                           
      Homme    · Aucun           · Haki : —
-     Prime : 8 000 000 B        Taille : 1,90 m     Origine : East Blue                  1re app. : East Blue
+     Prime : 8 000 000 B        Taille : 1,90 m     Origine : East Blue                  1re app. : Romance Dawn
   Igaram                           🎻👮
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,18 m     Origine : Inconnue                   1re app. : Alabasta
+     Prime : ?                  Taille : 2,18 m     Origine : Inconnue                   1re app. : Whisky Peak
   Ippon Matsu                      
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,57 m     Origine : East Blue                  1re app. : East Blue
+     Prime : ?                  Taille : 1,57 m     Origine : East Blue                  1re app. : Loguetown
   Kawamatsu                        🦛🍶
      Homme    · Aucun           · Haki : Armement + Observation
      Prime : ?                  Taille : 2,71 m     Origine : Wano                       1re app. : Wano
@@ -1599,13 +1599,13 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : 2 600 000 000 B    Taille : ?          Origine : Inconnue                   1re app. : Elbaf
   Makino                           🍺👩
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,66 m     Origine : East Blue                  1re app. : East Blue
+     Prime : ?                  Taille : 1,66 m     Origine : East Blue                  1re app. : Romance Dawn
   Mocha                            
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 6,92 m     Origine : Grand Line                 1re app. : Dressrosa
+     Prime : ?                  Taille : 6,92 m     Origine : Grand Line                 1re app. : Punk Hazard
   Nojiko                           🍊💙
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,70 m     Origine : East Blue                  1re app. : East Blue
+     Prime : ?                  Taille : 1,70 m     Origine : East Blue                  1re app. : Arlong Park
   Pell                             🦅🛡️
      Homme    · Zoan            · Haki : —
      Prime : ?                  Taille : 1,89 m     Origine : Inconnue                   1re app. : Alabasta
@@ -1614,13 +1614,13 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 1,79 m     Origine : Wano                       1re app. : Thriller Bark
   Shishilian                       
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,96 m     Origine : Grand Line                 1re app. : Whole Cake Island
+     Prime : ?                  Taille : 1,96 m     Origine : Grand Line                 1re app. : Zou
   Stansen                          
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 19,50 m    Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 19,50 m    Origine : Inconnue                   1re app. : Sabaody
   Stelly                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,80 m     Origine : Inconnue                   1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 1,80 m     Origine : Inconnue                   1re app. : Après-guerre
 
 ── SERAPHIM  (4) ───────────────────────────────────────────────────────────────────────────────────
   S-Bear                           
@@ -1661,7 +1661,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── SIROP  (1) ──────────────────────────────────────────────────────────────────────────────────────
   Merry                            
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : ?          Origine : Inconnue                   1re app. : Village de Syrup
 
 ── SKYPIÉA  (2) ────────────────────────────────────────────────────────────────────────────────────
   Gan Fall                         🛡️🐦
@@ -1677,7 +1677,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Prime : ?                  Taille : 1,97 m     Origine : Inconnue                   1re app. : Alabasta
   Hatchan                          🐙🍜
      Homme    · Aucun           · Haki : —
-     Prime : 8 000 000 B        Taille : 2,20 m     Origine : Ile des Hommes-Poissons    1re app. : East Blue
+     Prime : 8 000 000 B        Taille : 2,20 m     Origine : Ile des Hommes-Poissons    1re app. : Arlong Park
   Pappag                           
      Homme    · Aucun           · Haki : —
      Prime : ?                  Taille : 50 cm      Origine : Inconnue                   1re app. : Alabasta
@@ -1707,7 +1707,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── VILLAGE DE SIROP  (1) ───────────────────────────────────────────────────────────────────────────
   Kaya                             🤒💰
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,69 m     Origine : Inconnue                   1re app. : East Blue
+     Prime : ?                  Taille : 1,69 m     Origine : Inconnue                   1re app. : Village de Syrup
 
 ── VOLEURS D'ATAMAYAMA  (1) ────────────────────────────────────────────────────────────────────────
   Ashura Doji                      🪓😈
@@ -1722,7 +1722,7 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── WEATHERIA  (1) ──────────────────────────────────────────────────────────────────────────────────
   Haredas                          
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 2,53 m     Origine : Ciel                       1re app. : Guerre au Sommet
+     Prime : ?                  Taille : 2,53 m     Origine : Ciel                       1re app. : Amazon Lily
 
 ── WORLD ECONOMY NEWS PAPER  (1) ───────────────────────────────────────────────────────────────────
   Morgans                          
@@ -1737,15 +1737,15 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
 ── YOSAKU  (1) ─────────────────────────────────────────────────────────────────────────────────────
   Johnny                           
      Homme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,86 m     Origine : East Blue                  1re app. : East Blue
+     Prime : ?                  Taille : 1,86 m     Origine : East Blue                  1re app. : Baratie
 
 ── ZOU  (2) ────────────────────────────────────────────────────────────────────────────────────────
   Carrot                           🐰🥕
      Femme    · Aucun           · Haki : —
-     Prime : ?                  Taille : 1,61 m     Origine : Grand Line                 1re app. : Whole Cake Island
+     Prime : ?                  Taille : 1,61 m     Origine : Grand Line                 1re app. : Zou
   Pedro                            🐆💣
      Homme    · Aucun           · Haki : Armement + Observation
-     Prime : 382 000 000 B      Taille : 2,33 m     Origine : Grand Line                 1re app. : Whole Cake Island
+     Prime : 382 000 000 B      Taille : 2,33 m     Origine : Grand Line                 1re app. : Zou
 
 ####################################################################################################
   2. INDEX ALPHABÉTIQUE
@@ -2408,15 +2408,36 @@ Taille : « ? » = non révélée.  Haki : « — » = aucun connu.
      Elbaf                               6  ███
 
   Première apparition :
-     Whole Cake Island                  73  ████████████████████████████████████
-     Guerre au Sommet                   68  ██████████████████████████████████
-     East Blue                          61  ██████████████████████████████
-     Dressrosa                          52  ██████████████████████████
-     Water 7                            40  ████████████████████
-     Skypiea                            38  ███████████████████
-     Wano                               38  ███████████████████
-     Alabasta                           36  ██████████████████
-     Ile des Hommes-Poissons            28  ██████████████
+     Whole Cake Island                  62  ███████████████████████████████
+     Dressrosa                          37  ██████████████████
+     Wano                               32  ████████████████
+     Ile des Hommes-Poissons            25  ████████████
+     Jaya                               22  ███████████
+     Sabaody                            21  ██████████
+     Water 7                            20  ██████████
+     Marineford                         17  ████████
+     Skypiea                            16  ████████
+     Romance Dawn                       15  ████████
      Egghead                            15  ████████
-     Thriller Bark                      11  ██████
-     Elbaf                              10  █████
+     Punk Hazard                        15  ████████
+     Enies Lobby                        13  ██████
+     Amazon Lily                        11  ██████
+     Village de Syrup                   11  ██████
+     Zou                                11  ██████
+     Impel Down                         11  ██████
+     Baratie                            11  ██████
+     Elbaf                              11  ██████
+     Thriller Bark                      10  █████
+     Arlong Park                        10  █████
+     Alabasta                           10  █████
+     Après-guerre                        9  ████
+     Drum                                9  ████
+     Ville d'Orange                      8  ████
+     Long Ring Long Land                 6  ███
+     Loguetown                           6  ███
+     Little Garden                       6  ███
+     Whisky Peak                         6  ███
+     Reverie                             5  ██
+     Reverse Mountain                    5  ██
+     Retour à Sabaody                    3  ██
+     Post-Enies Lobby                    1  

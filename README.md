@@ -48,9 +48,22 @@ ce qui induisait en erreur.
 | Haki (💪 noirci = Armement, 👁️ Observation, 👑 Rois) | mêmes types | au moins un type en commun |
 | Prime | identique | écart ≤ 20 % |
 | Taille | identique | écart ≤ 15 cm |
-| 1re apparition | même saga | saga adjacente |
+| 1re apparition | même arc | arc adjacent |
 
 Les flèches ⬆ / ⬇ indiquent si la valeur cherchée est plus grande ou plus petite.
+
+## Première apparition
+
+La colonne « 1re apparition » est à la **granularité arc** (33 arcs, de Romance Dawn à
+Elbaf) et non saga : Sabaody appartient à la saga de la Guerre au Sommet, mais afficher
+« Sabaody » est bien plus parlant. L'arc est déduit du numéro de chapitre cité par la
+fiche, via la table `tools/arcs.py`.
+
+Le wiki liste aussi les mentions et silhouettes comme premières apparitions : elles sont
+ignorées quand elles sont annotées comme telles, sans quoi Boa Hancock débuterait à
+Thriller Bark (où elle est seulement mentionnée) au lieu d'Amazon Lily. Restent quelques
+caméos non annotés qui sont, eux, de véritables apparitions : Marco est bien visible au
+chapitre 234 (Jaya), Rayleigh dans un flash-back du chapitre 19.
 
 ## Source des données
 
@@ -144,7 +157,7 @@ Tout est dans `js/characters.js`, une ligne par personnage :
 - `haki` : combinaison de `A` (Armement), `O` (Observation), `R` (Rois) — `""` si aucun
 - `prime` : en berries, `0` = aucune, `-1` = inconnue
 - `taille` : en cm, `-1` = inconnue
-- `saga` : une valeur du tableau `SAGAS`
+- `arc` : une valeur du tableau `ARCS`
 
 `origine` : East Blue, West Blue, North Blue, South Blue, Grand Line, Wano,
 Ile des Hommes-Poissons, Ciel, Elbaf, Calm Belt, Terre Sainte de Mary Joa, Inconnue —

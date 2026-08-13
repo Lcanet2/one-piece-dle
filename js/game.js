@@ -3,7 +3,7 @@
 "use strict";
 
 /* ---------- 1. Construction des personnages ---------- */
-const FIELDS = ["nom","genre","equipage","camp","fruit","haki","prime","taille","origine","saga"];
+const FIELDS = ["nom","genre","equipage","camp","fruit","haki","prime","taille","origine","arc"];
 
 const CHARACTERS = RAW_CHARACTERS.map(r => {
   const c = {};
@@ -16,7 +16,7 @@ const CHARACTERS = RAW_CHARACTERS.map(r => {
   c.score = (c.prime > 0) + (c.taille > 0) + (c.haki !== "")
           + (c.fruit !== "Aucun") + (c.origine !== "Inconnue");
   c.estCible = c.emoji !== "" || c.score >= 2;
-  c.sagaIdx = SAGAS.indexOf(c.saga);
+  c.arcIdx = ARCS.indexOf(c.arc);
   c.hakiSet = c.haki.split("").filter(Boolean);
   c.key = norm(c.nom);
   return c;
@@ -143,7 +143,7 @@ const COLUMNS = [
   { key: "haki",     label: "Haki",       type: "set" },
   { key: "prime",    label: "Prime",      type: "num", fmt: fmtBounty },
   { key: "taille",   label: "Taille",     type: "num", fmt: v => v < 0 ? "?" : (v >= 100 ? (v/100).toFixed(2).replace(".", ",") + " m" : v + " cm") },
-  { key: "sagaIdx",  label: "1re apparition", type: "num", fmt: v => SAGAS[v] || "?" }
+  { key: "arcIdx",   label: "1re apparition", type: "num", fmt: v => ARCS[v] || "?" }
 ];
 
 function fmtBounty(v) {
@@ -366,7 +366,7 @@ function renderClue() {
 const HINT_STEPS = [
   { at: 4,  label: "Origine",     get: t => t.origine },
   { at: 6,  label: "Camp",        get: t => t.camp },
-  { at: 8,  label: "Première apparition", get: t => t.saga },
+  { at: 8,  label: "Première apparition", get: t => t.arc },
   { at: 10, label: "Initiale",    get: t => t.nom[0].toUpperCase() + "…" }
 ];
 
